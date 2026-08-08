@@ -1,0 +1,11 @@
+git fetch --prune
+git branch -vv | grep ': gone]' | awk '{print $1}'
+git branch -vv | grep ': gone]' | awk '{print $1}' | xargs git branch -d
+
+
+git clone git@github.com-peabear:Peabear/homepage.git
+
+git config user.name "Peabear"
+git config user.email "peabear@web.de"
+
+
