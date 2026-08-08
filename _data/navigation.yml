@@ -1,0 +1,6 @@
+main:
+  - title: '<i class="fas fa-fw fa-pen-nib"></i> Blog'
+    url: /
+  - title: '<i class="fas fa-fw fa-book-open"></i> Über uns'
+    url: /ueber-uns/
+
