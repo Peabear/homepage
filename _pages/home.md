@@ -11,6 +11,8 @@ layout: posts
   - robots.txt disallows crawling
   - `<meta name="robots" content="noindex, nofollow, noarchive">` in `head.html`
   - no commenting available
+  - no social sharing available
+  - no html validation available
 
 
 

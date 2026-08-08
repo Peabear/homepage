@@ -1,0 +1,23 @@
+version: 2
+updates:
+  # 1. GitHub Actions (All updates in one weekly group)
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "saturday"
+    groups:
+      github-actions-group:
+        patterns:
+          - "*"
+
+  # 2. Ruby Gems / Jekyll (All updates in one weekly group)
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "saturday"
+    groups:
+      ruby-gems-group:
+        patterns:
+          - "*"
