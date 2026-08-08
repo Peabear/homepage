@@ -2,9 +2,7 @@
 <meta charset="utf-8">
 
 <!-- TEMPORARY Noindex-Protection against Duplicate Content -->
-{% if site.noindex == true or jekyll.environment != "production" %}
-  <meta name="robots" content="noindex, nofollow, noarchive">
-{% endif %}
+<meta name="robots" content="noindex, nofollow, noarchive">
 
 {% include seo.html locale=locale %}
 
@@ -28,7 +26,7 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-<!-- Font Awesome 6.7.2 for modern icons https://cdnjs.com/libraries/font-awesome/6.7.2 -->
+<!-- Font Awesome 6.7.2 for modern icons https://cdnjs.com/libraries/font-awesome/6.7.2 - Note: only FREE symbols are shown -->
 <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer">
 <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
 
