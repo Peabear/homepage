@@ -87,4 +87,4 @@ atom_feed:
   hide: true # not rendered anyway as long as search is active. So I put RSS feed to footer explicitly
 
 footer:
-  extra_footer_content: '© 2026 Ääzebär e.V. Lohmar &#124; <a href="/homepage/feed.xml"><i class="fas fa-square-rss" style="color: #ee802f;"></i> RSS Feed</a> &#124; <a href="/homepage/legal/"><i class="fas fa-scale-balanced"></i> Impressum, Datenschutzerklärung und Haftungsausschluss</a>'
+  extra_footer_content: '© 2026 Ääzebär e.V. Lohmar &#124; <a href="/homepage/feed.xml"><i class="fas fa-square-rss" style="color: #ee802f;"></i> RSS Feed</a> &#124; <a href="/homepage/legal/"><i class="fas fa-scale-balanced"></i> Impressum und Haftungsausschluss</a>'
