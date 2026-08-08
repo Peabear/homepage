@@ -57,6 +57,8 @@ defaults:
       share: false # Displays social media buttons (Twitter, Facebook, LinkedIn, etc.), allowing readers to share your post with a single click.
       related: false # Enables the "You May Also Enjoy" section. Displays similar posts here (based on shared tags or categories).
       author_profile: true
+      header:
+        teaser: "/assets/images/ab-logo_w.jpg"
   # _pages
   - scope:
       path: "_pages"

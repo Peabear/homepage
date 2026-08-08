@@ -1,6 +1,6 @@
 ---
 title: "Neuer Vorstand gewählt"
-excerpt: "TODO"
+excerpt: "Auf der Mitgliederversammlung wurde ein neue Vorstand gewählt."
 categories:
   - blog
 tags:
