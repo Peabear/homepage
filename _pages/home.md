@@ -6,10 +6,9 @@ entries_layout: grid # shows the teaser images
 classes: wide
 ---
 
-<p><i class="fas fa-tools"></i> THIS SITE IS UNDER CONSTRUCTION <i class="fas fa-tools"></i></p>
-
 <details>
-  <summary><strong>Click to show maintenance details</strong></summary>
+  <summary><strong><i class="fas fa-tools"></i> THIS SITE IS UNDER CONSTRUCTION <i class="fas fa-tools"></i> - Click to show maintenance details
+  </strong></summary>
   <ul>
     <li>no search engine or robots should index this site
       <ul>
@@ -23,6 +22,7 @@ classes: wide
     <li>galleries are not yet available (and ignored by git)</li>
   </ul>
 </details>
+{: .notice--danger}
 
 
 
