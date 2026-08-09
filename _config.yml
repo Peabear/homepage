@@ -6,7 +6,7 @@ og_image: /assets/images/ab-logo_w.jpg # image used when sharing links. Can be a
 url: "https://peabear.github.io" # ATTENTION: Also check social-links when changing!
 baseurl: "/homepage" # ATTENTION: check links within this config (e.g. in footer) when changing!
 
-minimal_mistakes_skin: "default" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "aqua" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Build settings
