@@ -1,6 +1,6 @@
 ---
-title: "Förderverein Jabachkindergarten e.V. dankt für die Spende"
-excerpt: "Der Förderverein Jabachkindergarten e.V. freut sich über eine Spende des Ääzebär e.V."
+title: "Förder&shy;verein Jabach&shy;kinder&shy;garten e.V. dankt für die Spende"
+excerpt: "Der Förder&shy;verein Jabach&shy;kinder&shy;garten e.V. freut sich über eine Spende des Ääzebär e.V."
 categories:
   - aktuelles
 tags:

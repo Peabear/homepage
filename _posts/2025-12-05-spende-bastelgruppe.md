@@ -1,6 +1,6 @@
 ---
-title: "Spende für die Bastelgruppe der Villa Friedlinde"
-excerpt: "Die Bastelgruppe der Villa Friedlinde erhielt heute eine Spende von 150 Euro."
+title: "Spende für die Bastel&shy;gruppe der Villa Friedlinde"
+excerpt: "Die Bastel&shy;gruppe der Villa Friedlinde erhielt heute eine Spende von 150 Euro."
 categories:
   - aktuelles
 tags:

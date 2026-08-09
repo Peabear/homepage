@@ -1,5 +1,5 @@
 ---
-title: "Ääzebärtreiben 2024"
+title: "Ääzebär&shy;treiben 2024"
 excerpt: "Etwa 25 Karnevalisten starteten den Rundgang durch die Lohmarer Geschäfte und sammelten 2378,20 Euro Spenden für den guten Zweck."
 categories:
   - aktuelles

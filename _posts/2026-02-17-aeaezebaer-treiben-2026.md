@@ -1,13 +1,13 @@
 ---
-title: "Ääzebärtreiben 2026"
+title: "Ääzebär&shy;treiben 2026"
 excerpt: "Mit dem Dreigestirn nahmen 21 Personen am 'Kött-Walk' teil und sammelten 2224,01 Euro für den guten Zweck."
 categories:
   - aktuelles
 tags:
   - ääzebärtreiben
 header:
-  teaser: /assets/images/2026-02-18/aeaeze.jpg
-  overlay_image: /assets/images/2026-02-18/aeaeze.jpg
+  teaser: /assets/images/2026-02-17/aeaeze.jpg
+  overlay_image: /assets/images/2026-02-17/aeaeze.jpg
   overlay_filter: 0.5 # Darkens the image (0.1 to 1.0) to keep the text readable
 ---
 
@@ -18,7 +18,7 @@ Im Bär steckte erneut Patrick Marunde, das Dreigestirn nahm wie alle trotz des 
 Nach der Auszählung im HGV-Haus stand ein Ergebnis von 2224,01 Euro für den guten Zweck fest. (nm)
 
 
-![Gruppenfoto bei Emitec]({{ '/assets/images/2026-02-18/aeaeze.jpg' | relative_url }} "Gruppenfoto bei Emitec")
+![Gruppenfoto bei Emitec]({{ '/assets/images/2026-02-17/aeaeze.jpg' | relative_url }} "Gruppenfoto bei Emitec")
 
 [Weitere Fotos und Videos auf www.in-lohmar.de](https://tinyurl.com/mw6m2zw9)
 
