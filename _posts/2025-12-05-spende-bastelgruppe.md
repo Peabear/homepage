@@ -17,6 +17,7 @@ header:
   }
 </style>
 
+
 Die Mitglieder des Ääzebär e.V. ziehen jedes Jahr am Veilchendienstag durch Lohmar-Ort und sammeln Spenden für den guten Zweck. Ein Großteil der Einnahmen geht noch am selben Abend an das Lohmarer Rote Kreuz, der Rest wird an verschiedene Vereine oder Aktionen verteilt - dieses Jahr zum Beispiel an die Pfadfinder oder an Weihnachts-Wunschzettel der "Engel für Ältere"-Aktion der BürgerStiftungLohmar.
 
 Auch die Bastelgruppe der Villa Friedlinde erhielt einen Zuschuss für Bastelmaterial.

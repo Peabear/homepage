@@ -5,7 +5,7 @@ excerpt: "TODO"
 toc: true
 toc_label: "Über uns"
 toc_sticky: true
-toc_icon: "fa-solid fa-drum"
+toc_icon: "fa-solid fa-paw"
 ---
 
 Der Ääzebär e.V. Lohmar ist ein gemeinnütziger Verein, der jeden Veilchendienstag das traditionelle Ääzebär-Treiben organisiert. Unser Ziel ist es, Gutes zu tun: Wir sammeln Spenden für das örtliche Rote Kreuz und unterstützen zusätzlich noch verschiedene lokale, wohltätige sowie gemeinnützige Initiativen direkt hier in Lohmar.

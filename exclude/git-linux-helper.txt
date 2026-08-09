@@ -9,3 +9,8 @@ git config user.name "Peabear"
 git config user.email "peabear@web.de"
 
 
+
+find assets/images/2024-02-13/ -type f -name "*Identifier"
+find assets/images/2024-02-13/ -type f -name "*Identifier" -delete
+
+
