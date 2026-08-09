@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Startseite
 permalink: /
 layout: posts
 entries_layout: grid # shows the teaser images

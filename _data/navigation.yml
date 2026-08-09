@@ -1,6 +1,9 @@
 main:
-  - title: '<i class="fas fa-fw fa-pen-nib"></i> Blog'
+  - title: '<i class="fa-solid fa-house"></i> Startseite'
     url: /
-  - title: '<i class="fas fa-fw fa-book-open"></i> Über uns'
+  - title: '<i class="fa-solid fa-hand-holding-heart"></i> Spenden für den guten Zweck'
+    url: /spenden-fuer-guten-zweck/
+  - title: '<i class="fa-solid fa-drum"></i> Über uns'
     url: /ueber-uns/
-
+  - title: '<i class="fa-solid fa-seedling"></i> Über uns (Original)'
+    url: /ueber-uns-original/
