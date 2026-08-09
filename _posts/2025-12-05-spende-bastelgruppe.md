@@ -2,9 +2,9 @@
 title: "Spende für die Bastelgruppe der Villa Friedlinde"
 excerpt: "Die Bastelgruppe der Villa Friedlinde erhielt heute eine Spende von 150 Euro."
 categories:
-  - blog
+  - aktuelles
 tags:
-  - todo
+  - spende
 header:
   teaser: /assets/images/2025-12-05/01.jpg
   overlay_image: /assets/images/2025-12-05/overlay.png

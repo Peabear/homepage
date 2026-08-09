@@ -1,10 +1,11 @@
 ---
 title: "Neuer Vorstand gewählt"
-excerpt: "Auf der Mitgliederversammlung wurde ein neue Vorstand gewählt."
+excerpt: "Auf der Mitgliederversammlung wurde ein neuer Vorstand gewählt."
 categories:
-  - blog
+  - aktuelles
 tags:
-  - todo
+  - vereinsintern
+  - vorstand
 ---
 
 
