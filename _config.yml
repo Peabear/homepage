@@ -19,7 +19,8 @@ encoding: utf-8 # no official jekyll standard, but: might help and will not brea
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-locale: de_DE
+locale: de-DE # important: - instead of _
+date_format: "%d.%m.%Y" # german date format - using numbers for months since german names do not work
 timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 plugins:
@@ -87,4 +88,4 @@ atom_feed:
   hide: true # not rendered anyway as long as search is active. So I put RSS feed to footer explicitly
 
 footer:
-  extra_footer_content: '© 2026 Ääzebär e.V. Lohmar &#124; <a href="/homepage/feed.xml"><i class="fas fa-square-rss" style="color: #ee802f;"></i> RSS Feed</a> &#124; <a href="/homepage/legal/"><i class="fas fa-scale-balanced"></i> Impressum und Haftungsausschluss</a>'
+  extra_footer_content: '© 2008 - 2026 Ääzebär e.V. Lohmar &#124; <a href="/homepage/feed.xml"><i class="fas fa-square-rss" style="color: #ee802f;"></i> RSS Feed</a> &#124; <a href="/homepage/legal/"><i class="fas fa-scale-balanced"></i> Impressum und Haftungsausschluss</a>'
