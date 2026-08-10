@@ -10,3 +10,4 @@
 - links
   - https://goqr.me/ create QR codes - free and no sign-up
   - https://fontawesome.com/search?s=solid&ic=free-collection
+  - https://koelsch-akademie.de/online-woerterbuch-1?t

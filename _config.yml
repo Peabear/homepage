@@ -80,9 +80,9 @@ author:
     - label: Email
       icon: "fas fa-square-envelope"
       url: "mailto:peabear@web.de" # ATTENTION: Also check mail adress in site properties when changing!
-    - label: Facebook TODO-LINK
+    - label: Facebook
       icon: "fab fa-fw fa-facebook"
-      url: "TODO" # ATTENTION: Also check social-links when changing!
+      url: "https://www.facebook.com/Aeaezebaer/" # ATTENTION: Also check social-links when changing!
 
 atom_feed: 
   hide: true # not rendered anyway as long as search is active. So I put RSS feed to footer explicitly
