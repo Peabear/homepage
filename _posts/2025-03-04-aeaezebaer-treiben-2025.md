@@ -1,6 +1,6 @@
 ---
 title: "Ääzebär&shy;treiben 2025"
-excerpt: "Mit Prinzenpaar und Gefolge waren gestern 26 Personen unterwegs und haben das Rekord&shy;ergebnis 2500,49 Euro gesammelt."
+excerpt: "Mit Prinzenpaar und Gefolge waren gestern 26 Personen unterwegs und haben das Rekord&shy;ergebnis 2500,49 EUR gesammelt."
 categories:
   - aktuelles
 tags:
@@ -15,7 +15,7 @@ header:
 Mit Prinzenpaar und Gefolge waren wir gestern mit 26 Personen unterwegs.
 
 Bei bestem Wetter wurde von 10 - 19 Uhr gesammelt und dann im HGV-Haus ausgezählt. 
-Das Rekordergebnis 2500,49 Euro wurde eingefahren.
+Das Rekordergebnis 2500,49 EUR wurde eingefahren.
 
 Soviel ist noch nie zusammengekommen :-)
 
@@ -33,5 +33,3 @@ Besuch der VR Bank
 ![Die Prinzessin auf dem Stuhl der Bürgermeisterin]({{ '/assets/images/2025-03-04/0N2A2222.jpg' | relative_url }} "Die Prinzessin auf dem Stuhl der Bürgermeisterin")
 Die Prinzessin auf dem Stuhl der Bürgermeisterin
 {: .text-center}
-
-

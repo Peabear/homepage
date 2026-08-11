@@ -1,6 +1,6 @@
 ---
 title: "Spende für die Bastel&shy;gruppe der Villa Friedlinde"
-excerpt: "Die Bastel&shy;gruppe der Villa Friedlinde erhielt heute eine Spende von 150 Euro."
+excerpt: "Die Bastel&shy;gruppe der Villa Friedlinde erhielt heute eine Spende von 150 EUR."
 categories:
   - aktuelles
 tags:
@@ -21,7 +21,7 @@ header:
 Die Mitglieder des Ääzebär e.V. ziehen jedes Jahr am Veilchendienstag durch Lohmar-Ort und sammeln Spenden für den guten Zweck. Ein Großteil der Einnahmen geht noch am selben Abend an das Lohmarer Rote Kreuz, der Rest wird an verschiedene Vereine oder Aktionen verteilt - dieses Jahr zum Beispiel an die Pfadfinder oder an Weihnachts-Wunschzettel der "Engel für Ältere"-Aktion der BürgerStiftungLohmar.
 
 Auch die Bastelgruppe der Villa Friedlinde erhielt einen Zuschuss für Bastelmaterial.
-Beatrix Marunde (Kassiererin des Ääzebär e.V.) überreichte heute im Rahmen der regelmässigen Kreativ-Werkstatt eine Spende in Höhe von 150 Euro an Jutta Muskatewitz. (nm)
+Beatrix Marunde (Kassiererin des Ääzebär e.V.) überreichte heute im Rahmen der regelmässigen Kreativ-Werkstatt eine Spende in Höhe von 150 EUR an Jutta Muskatewitz. (nm)
 
 ![Beatrix Marunde (2.v.l.) übergibt den Betrag an Jutta Muskatewitz]({{ '/assets/images/2025-12-05/01.jpg' | relative_url }} "Beatrix Marunde (2.v.l.) übergibt den Betrag an Jutta Muskatewitz")
 Spendenübergabe: Beatrix Marunde (2.v.l.) übergibt den Betrag an Jutta Muskatewitz

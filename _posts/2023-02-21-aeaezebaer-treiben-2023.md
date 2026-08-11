@@ -1,6 +1,6 @@
 ---
 title: "Ääzebär&shy;treiben 2023"
-excerpt: "Beim Ääzebär&shy;treiben wurden 1.729,62 Euro gesammelt."
+excerpt: "Beim Ääzebär&shy;treiben wurden 1.729,62 EUR gesammelt."
 categories:
   - aktuelles
 tags:
@@ -19,7 +19,7 @@ Erfreulicherweise konnten wir diesmal neben den Geschäften auch wieder den eine
 
 Im Bär war diesmal Patrick Marunde.
 
-Das Ergebnis der öffentlichen Auszählung gegen 19 Uhr war dann 1.729,62 Euro.
+Das Ergebnis der öffentlichen Auszählung gegen 19 Uhr war dann 1.729,62 EUR.
 
 Hier ein paar Fotos. (nm)
 

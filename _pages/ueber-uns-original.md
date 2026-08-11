@@ -8,7 +8,7 @@ Man schrieb das Jahr 1976, die KG “Ahl Jecke“ stellte mit Balthasar (Bältes
 
 Nach Bernhard Walterscheid-Müller, dem 1991 verstorbenen Ehrenbürger und Heimatforscher ist „de Ääzebär“ (Erbsenbär), ein mit Erbsen- oder Getreidestroh verkleideter Mann, der in zahlreichen Gegenden unseres Landes bekannt ist. Die Erbse und das Ebsenstroh sind Symbole der Fruchtbarkeit. Der Erbsenbär tritt bei Ernte, Kirmes, Fastnacht und Hochzeiten auf. Er vollführt einen schreitenden Rundtanz. Ein Bärenführer und maskierte Musikanten mit zum Teil komischen Musikinstrumenten begleiten ihn (Lohmarer Mundart in Reim und Prosa, 1983, S.69ff.). Auf das Kommando „Bär donn danze“ werden Spenden (Ääzebär-Knöllchen) für einen gemeinnützigen Zweck erbettelt. 
 
-Über 30.000 € sind seit 1980 zusammengekommen. Die Spenden werden am Abend öffentlich ausgezählt und übergeben. 
+Über 30.000 EUR sind seit 1980 zusammengekommen. Die Spenden werden am Abend öffentlich ausgezählt und übergeben. 
 
 Bis zum Mai 2008 war der Ääzebär dem Vereinskomitee Lohmar angegliedert. In diesem Jahr gründete sich aus Reihen der Ääzebär-Treiber der neue Verein „Ääzebär“ e.V., Lohmar, um den Erhalt diesen traditionellen Brauches für die Zukunft dauerhaft sicherzustellen. Der Verein ist in das Vereinsregister beim AG Siegburg eingetragen, als gemeinnützig anerkannt und Mitglied im Vereinskomitee Lohmar e.V.
 

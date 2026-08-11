@@ -10,7 +10,7 @@ toc_icon: "fa-solid fa-paw"
 
 Der Ääzebär e.V. Lohmar ist ein gemeinnütziger Verein, der jeden Veilchendienstag das traditionelle Ääzebär-Treiben organisiert. Unser Ziel ist es, Gutes zu tun: Wir sammeln Spenden für das örtliche Rote Kreuz und unterstützen zusätzlich noch verschiedene lokale, wohltätige sowie gemeinnützige Initiativen direkt hier in Lohmar.
 
-Seit 1980 sind auf diese Weise bereits über 30.000 Euro zusammengekommen. Traditionell werden die gesammelten Spenden noch am selben Abend öffentlich ausgezählt und direkt übergeben.
+Seit 1980 sind auf diese Weise bereits über 30.000 EUR zusammengekommen. Traditionell werden die gesammelten Spenden noch am selben Abend öffentlich ausgezählt und direkt übergeben.
 
 **Allen Spenderinnen und Spendern – insbesondere den Lohmarer Unternehmen – gilt an dieser Stelle unser herzlichster Dank für die großartige Unterstützung!**
 
@@ -18,7 +18,45 @@ Falls auch Sie diesen liebenswerten Fastnachtsbrauch unterstützen möchten, kö
 
 
 ## De Ääzebär (Erbsenbär)
-Nach Bernhard Walterscheid-Müller, dem 1991 verstorbenen Ehrenbürger und Heimatforscher ist „de Ääzebär“ (Erbsenbär), ein mit Erbsen- oder Getreidestroh verkleideter Mann, der in zahlreichen Gegenden unseres Landes bekannt ist. Die Erbse und das Ebsenstroh sind Symbole der Fruchtbarkeit. Der Erbsenbär tritt bei Ernte, Kirmes, Fastnacht und Hochzeiten auf. Er vollführt einen schreitenden Rundtanz. Ein Bärenführer und maskierte Musikanten mit zum Teil komischen Musikinstrumenten begleiten ihn (Lohmarer Mundart in Reim und Prosa, 1983, S.69ff.). Auf das Kommando „Bär donn danze“ werden Spenden (Ääzebär-Knöllchen) für einen gemeinnützigen Zweck erbettelt. 
+
+Nach Bernhard Walterscheid-Müller, dem 1991 verstorbenen Ehrenbürger und Heimatforscher ist „de Ääzebär“ (Erbsenbär), ein mit Erbsen- oder Getreidestroh verkleideter Mann, der in zahlreichen Gegenden unseres Landes bekannt ist. Die Erbse und das Ebsenstroh sind Symbole der Fruchtbarkeit. Der Erbsenbär tritt bei Ernte, Kirmes, Fastnacht und Hochzeiten auf. Er vollführt einen schreitenden Rundtanz. Ein Bärenführer 
+und maskierte Musikanten mit zum Teil komischen Musikinstrumenten begleiten ihn (Lohmarer Mundart in Reim und Prosa, 1983, <span class="hover-image-container"><a href="https://isbn.de/3924268002" target="_blank" class="hover-link">Link</a><img src="{{ '/assets/images/cover/cover_lohmarer_mundart_in_reim_und_prosa.png' | relative_url }}" alt="Buchcover von Lohmarer Mundart in Reim und Prosa" class="hover-image" /></span>, S.69ff.). Auf das Kommando „Bär donn danze“ werden Spenden (Ääzebär-Knöllchen) für einen gemeinnützigen Zweck erbettelt.
+
+
+<style>
+/* Zeigt das Cover beim Überfahren mit der Maus. ACHTUNG: alt-attribut muss passen! */
+.hover-image-container {
+  position: relative;
+  display: inline-block !important;
+}
+img[alt="Buchcover von Lohmarer Mundart in Reim und Prosa"] {
+  display: none;
+  position: absolute !important;
+  bottom: 140% !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+  width: 180px !important;
+  max-width: none !important;
+  height: auto !important;
+  z-index: 9999 !important;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3) !important;
+  border-radius: 4px !important;
+}
+.hover-image-container:hover img[alt="Buchcover von Lohmarer Mundart in Reim und Prosa"] {
+  display: block !important;
+}
+</style>
+
+
+Ääzebär von 1954:
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+  <a href="{{ '/assets/images/1954-03-02/1954_1.jpg' | relative_url }}" style="width: 45%; min-width: 250px;">
+    <img src="{{ '/assets/images/1954-03-02/1954_1.jpg' | relative_url }}" alt="Ääzebär von 1954" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">
+  </a>
+  <a href="{{ '/assets/images/1954-03-02/1954_2.jpg' | relative_url }}" style="width: 45%; min-width: 250px;">
+    <img src="{{ '/assets/images/1954-03-02/1954_2.jpg' | relative_url }}" alt="Ääzebär von 1954 - Rückseite" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">
+  </a>
+</div>
 
 
 ## Belebung des Ääzebär-Treiben im Lohmarer Karneval
@@ -84,7 +122,7 @@ Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt ev
 Lohmar, 09. Juli 2008
 
 
-**Gründungsprotokoll:**
+Gründungsprotokoll:
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
   <a href="{{ '/assets/images/gruendungsprotokoll/00000001.jpg' | relative_url }}" style="width: 45%; min-width: 250px;">

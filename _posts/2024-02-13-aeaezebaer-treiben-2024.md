@@ -1,6 +1,6 @@
 ---
 title: "Ääzebär&shy;treiben 2024"
-excerpt: "Etwa 25 Karnevalisten starteten den Rundgang durch die Lohmarer Geschäfte und sammelten 2378,20 Euro Spenden für den guten Zweck."
+excerpt: "Etwa 25 Karnevalisten starteten den Rundgang durch die Lohmarer Geschäfte und sammelten 2378,20 EUR Spenden für den guten Zweck."
 categories:
   - aktuelles
 tags:
@@ -12,7 +12,7 @@ header:
 ---
 
 
-Um 10 Uhr heute morgen ging es los: etwa 25 Karnevalisten starteten den Rundgang durch die Lohmarer Geschäfte, um Spenden für den guten Zweck zu sammeln. Ein paar Geschäfte hatten schon im Vorhinein ihren Beitrag überwiesen, viele andere entrichteten gerne einen Obulus, als wir vorbei kamen. Nach der öffentlichen Auszählung im Feuerwehrhaus ergab sich das offizielle Ergebnis zu 2378,20 Euro, das ist erheblich mehr als im letzten Jahr.
+Um 10 Uhr heute morgen ging es los: etwa 25 Karnevalisten starteten den Rundgang durch die Lohmarer Geschäfte, um Spenden für den guten Zweck zu sammeln. Ein paar Geschäfte hatten schon im Vorhinein ihren Beitrag überwiesen, viele andere entrichteten gerne einen Obulus, als wir vorbei kamen. Nach der öffentlichen Auszählung im Feuerwehrhaus ergab sich das offizielle Ergebnis zu 2378,20 EUR, das ist erheblich mehr als im letzten Jahr.
 
 ![Gruppenfoto des Ääzebärtreiben 2024]({{ '/assets/images/2024-02-13/FX6A4456.jpg' | relative_url }} "Gruppenfoto des Ääzebärtreiben 2024")
 Gruppenfoto des Ääzebärtreiben 2024
@@ -25,6 +25,3 @@ Drehorgelspieler Max Kirschbaum mit seiner Frau Hannelore
 ![Besuch der VR Bank]({{ '/assets/images/2024-02-13/FX6A4552.jpg' | relative_url }} "Besuch der VR Bank")
 Besuch der VR Bank
 {: .text-center}
-
-
-

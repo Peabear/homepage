@@ -14,7 +14,7 @@ toc_icon: "fa-solid fa-hand-holding-heart"
 
 Der Ääzebär e.V. Lohmar ist ein gemeinnütziger Verein. Unser Ziel ist es, Gutes zu tun: Wir sammeln Spenden für das örtliche Rote Kreuz und unterstützen zusätzlich noch verschiedene lokale, wohltätige sowie gemeinnützige Initiativen direkt hier in Lohmar.
 
-Seit 1980 sind auf diese Weise bereits über 30.000 Euro zusammengekommen.
+Seit 1980 sind auf diese Weise bereits über 30.000 EUR zusammengekommen.
 
 **Allen Spenderinnen und Spendern – insbesondere den Lohmarer Unternehmen – gilt an dieser Stelle unser herzlichster Dank für die großartige Unterstützung!**
 
@@ -22,8 +22,8 @@ Seit 1980 sind auf diese Weise bereits über 30.000 Euro zusammengekommen.
 > 
 > Der Ääzebär e.V. Lohmar ist als gemeinnützig anerkannt, sodass Sie Ihre Unterstützung steuerlich geltend machen können.
 > 
-> * **Bis 300 Euro:** Bei Zuwendungen bis zu diesem Betrag verlangt das Finanzamt keine offizielle Spendenquittung. Es greift die gesetzliche Regelung zum [vereinfachten Spendennachweis nach § 50 EStDV](https://www.steuer-gonze.de/vereinfachter-spendennachweis-fuer-spenden-bis-300-e/?print=print). Hierfür genügt dem Finanzamt Ihr normaler Kontoauszug oder der PayPal-Einzahlungsbeleg. Wie genau das funktioniert, erklärt auch der verständliche Ratgeber der [Lohnsteuer-Kompakt Steuerhilfe](https://www.lohnsteuer-kompakt.de/steuerwissen/hoehere-grenze-fuer-vereinfachten-spendennachweis/).
-> * **Ab 300 Euro:** Für jede Einzelspende über 300 € stellt der Verein Ihnen selbstverständlich eine offizielle Zuwendungsbestätigung aus.
+> * **Bis 300 EUR:** Bei Zuwendungen bis zu diesem Betrag verlangt das Finanzamt keine offizielle Spendenquittung. Es greift die gesetzliche Regelung zum [vereinfachten Spendennachweis nach § 50 EStDV](https://www.steuer-gonze.de/vereinfachter-spendennachweis-fuer-spenden-bis-300-e/?print=print). Hierfür genügt dem Finanzamt Ihr normaler Kontoauszug oder der PayPal-Einzahlungsbeleg. Wie genau das funktioniert, erklärt auch der verständliche Ratgeber der [Lohnsteuer-Kompakt Steuerhilfe](https://www.lohnsteuer-kompakt.de/steuerwissen/hoehere-grenze-fuer-vereinfachten-spendennachweis/).
+> * **Ab 300 EUR:** Für jede Einzelspende über 300 EUR stellt der Verein Ihnen selbstverständlich eine offizielle Zuwendungsbestätigung aus.
 {: .notice--success}
 
 
@@ -35,7 +35,7 @@ Unsere ehrenamtlichen Sammlerinnen und Sammler sind während des Ääzebärtreib
 **<i class="fas fa-tools"></i> Wie hoch ist der Spendenbetrag auf dem Knöllchen? <i class="fas fa-tools"></i>**  
 {: .notice--danger .text-center}
 
-Als Dankeschön erhalten Sie unser traditionelles „Ääzebär-Knöllchen“. Dieses dient Ihnen gleichzeitig als vereinfachter Spendennachweis zur Vorlage beim Finanzamt (gültig für Spenden bis zu einer Höhe von XXX €).
+Als Dankeschön erhalten Sie unser traditionelles „Ääzebär-Knöllchen“. Dieses dient Ihnen gleichzeitig als vereinfachter Spendennachweis zur Vorlage beim Finanzamt (gültig für Spenden bis zu einer Höhe von XXX EUR).
 
 
 ## Spenden per Banküberweisung

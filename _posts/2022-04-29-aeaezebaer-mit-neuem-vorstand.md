@@ -10,8 +10,8 @@ tags:
 
 
 Bei der Mitgliederversammlung des Ääzebär e.V. wurde heute der Vorstand wie folgt neu gewählt:
-- 1. Vorsitzender: Sven Ziaja
-- 2. Vorsitzender: Peter Drossard
+- 1\. Vorsitzender: Sven Ziaja
+- 2\. Vorsitzender: Peter Drossard
 - Kassiererin: Beatrix Marunde
 - Schriftführer: Harald Kreisel
  
