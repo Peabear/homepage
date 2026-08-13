@@ -73,31 +73,31 @@ des Vereins **„Ääzebär“ e.V.**, Lohmar, genehmigt durch die Gründungsver
 
 ### § 1 Name und Sitz
 
-1) Der Verein soll in das Vereinsregister eingetragen werden und heißt dann **„Ääzebär“ e.V. Lohmar**  
-2) Er hat seinen Sitz in Lohmar.  
-3) Geschäftsjahr ist das Kalenderjahr.  
+1. Der Verein soll in das Vereinsregister eingetragen werden und heißt dann **„Ääzebär“ e.V. Lohmar**
+2. Er hat seinen Sitz in Lohmar.
+3. Geschäftsjahr ist das Kalenderjahr.
    
 ### § 2 Vereinszweck
-1) Sinn und Zweck des Vereins ist die Durchführung des seit 1976 stattfindenden, traditionellen „Ääzebär“ – Treibens am Karnevalsdienstag in Lohmar, dessen Einnahmen in voller Höhe einem gemeinnützigem Zweck zugeführt werden.  
-Der Empfänger/Begünstigte der Einnahmen kann nur durch mehrheitlichen Beschluss der Mitglieder auf einer ordnungsgemäß einberufenen Mitgliederversammlung geändert werden. Die Einnahmen werden unmittelbar nach dem „Ääzebär“ – Treiben am gleichen Abend (Karnevalsdienstag) in Anwesenheit eines Vertreters des Begünstigten ausgezählt und an einen Vertreter des Begünstigten übergeben.  
-2) Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung. Er ist in das Vereinsregister beim Amtsgericht Siegburg eingetragen.
+1. Sinn und Zweck des Vereins ist die Durchführung des seit 1976 stattfindenden, traditionellen „Ääzebär“ – Treibens am Karnevalsdienstag in Lohmar, dessen Einnahmen in voller Höhe einem gemeinnützigem Zweck zugeführt werden.  
+Der Empfänger/Begünstigte der Einnahmen kann nur durch mehrheitlichen Beschluss der Mitglieder auf einer ordnungsgemäß einberufenen Mitgliederversammlung geändert werden. Die Einnahmen werden unmittelbar nach dem „Ääzebär“ – Treiben am gleichen Abend (Karnevalsdienstag) in Anwesenheit eines Vertreters des Begünstigten ausgezählt und an einen Vertreter des Begünstigten übergeben.
+2. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung. Er ist in das Vereinsregister beim Amtsgericht Siegburg eingetragen.
 
 ### § 3 Selbstlosigkeit
-1) Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.  
-2) Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.  
-3) Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
+1. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
+2. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
+3. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
 ### § 4 Mitgliedschaft
-1) Mitglied kann jede volljährige natürliche oder juristische Person werden.  
-2) Die Aufnahme in den Verein erfolgt auf Vorschlag des Vorstandes durch mehrheitlichen Beschluss der anwesenden Mitglieder bei ordnungsgemäß einberufenen Mitgliederversammlungen.  
-3) Die Mitgliedschaft endet mit Tod, Austritt oder Ausschluss aus dem Verein.  
-4) Es werden keine Mitgliedsbeiträge erhoben.
+1. Mitglied kann jede volljährige natürliche oder juristische Person werden.
+2. Die Aufnahme in den Verein erfolgt auf Vorschlag des Vorstandes durch mehrheitlichen Beschluss der anwesenden Mitglieder bei ordnungsgemäß einberufenen Mitgliederversammlungen.
+3. Die Mitgliedschaft endet mit Tod, Austritt oder Ausschluss aus dem Verein.
+4. Es werden keine Mitgliedsbeiträge erhoben.
 
 ### § 5 Mitgliederversammlung
-1) Die Mitgliederversammlung ist beschlussfähig, wenn sie ordnungsgemäß einberufen wurde.  
-2) Sie fasst mit der einfachen Mehrheit der anwesenden Mitglieder Beschlüsse sofern die Satzung nichts anderes vorsieht.  
-3) Die Beschlüsse der Mitgliederversammlung werden protokolliert.  
-4) Aufgaben der Mitgliederversammlung:
+1. Die Mitgliederversammlung ist beschlussfähig, wenn sie ordnungsgemäß einberufen wurde.
+2. Sie fasst mit der einfachen Mehrheit der anwesenden Mitglieder Beschlüsse sofern die Satzung nichts anderes vorsieht.
+3. Die Beschlüsse der Mitgliederversammlung werden protokolliert.
+4. Aufgaben der Mitgliederversammlung:
   - Bestimmung der Anzahl, Wahl, Abberufung und Entlastung des Vorstands
   - Entgegennahme des Jahresberichts des Vorstands
   - Satzungsänderungen, Änderungen des Vereinszwecks und Auflösung des Vereins
@@ -106,15 +106,15 @@ Der Empfänger/Begünstigte der Einnahmen kann nur durch mehrheitlichen Beschlus
 Der Vorstand besteht aus dem ersten und zweiten Vorsitzenden sowie dem Kassenwart. Jeder ist einzeln zur Vertretung des Vereins berechtigt.
 
 ### § 7 Geschäftsführender Vorstand
-1) Die Mitgliederversammlung beschließt, ob und in welcher Anzahl weitere geschäftsführende, nicht vertretungsberechtigte Vorstandsmitglieder gewählt werden.  
-2) Der Vorstand ist für alle Vereinsangelegenheiten zuständig, die nicht durch Satzung ausdrücklich der Mitgliederversammlung zugewiesen sind. Er ist insbesondere für die ordnungsgemäße und vollständige Abführung der beim „Ääzebär-Treiben“ erzielten Einnahmen an den durch das Treiben Begünstigten zuständig.  
-3) Er fasst Beschlüsse mit einfacher Mehrheit, hierüber werden schriftliche Protokolle angefertigt. Der Vorstand ist beschlussfähig, wenn mindestens zwei Vorstandsmitglieder anwesend sind, hiervon mindestens eines der vertretungsberechtigten Vorstandsmitglieder.  
+1. Die Mitgliederversammlung beschließt, ob und in welcher Anzahl weitere geschäftsführende, nicht vertretungsberechtigte Vorstandsmitglieder gewählt werden.
+2. Der Vorstand ist für alle Vereinsangelegenheiten zuständig, die nicht durch Satzung ausdrücklich der Mitgliederversammlung zugewiesen sind. Er ist insbesondere für die ordnungsgemäße und vollständige Abführung der beim „Ääzebär-Treiben“ erzielten Einnahmen an den durch das Treiben Begünstigten zuständig.
+3. Er fasst Beschlüsse mit einfacher Mehrheit, hierüber werden schriftliche Protokolle angefertigt. Der Vorstand ist beschlussfähig, wenn mindestens zwei Vorstandsmitglieder anwesend sind, hiervon mindestens eines der vertretungsberechtigten Vorstandsmitglieder.  
 4) Der Vorstand wird für die Dauer von 2 Jahren gewählt. Der Vorstand bleibt bis zur Wahl eines neuen Vorstandes im Amt.  
 5) Der Vorstand lädt schriftlich (dies kann auch per Email erfolgen) zwei Wochen im Voraus mindestens einmal im Jahr zur Mitgliederversammlung ein. Dabei ist die vom Vorstand festgesetzte Tagesordnung mitzuteilen.
 
 ### § 8 Austritt und Ausschluss aus dem Verein
-1) Der Austritt aus dem Verein hat schriftlich gegenüber dem Vorsitzenden zu erfolgen. Der Austritt löst keine Forderungen an den Verein aus.  
-2) Ein Mitglied das gegen die Belange des Vereins i.S. von § 2 der Satzung verstößt, kann mit Zwei-Drittel-Mehrheit der anwesenden Mitglieder aus dem Verein ausgeschlossen werden.
+1. Der Austritt aus dem Verein hat schriftlich gegenüber dem Vorsitzenden zu erfolgen. Der Austritt löst keine Forderungen an den Verein aus.  
+2. Ein Mitglied das gegen die Belange des Vereins i.S. von § 2 der Satzung verstößt, kann mit Zwei-Drittel-Mehrheit der anwesenden Mitglieder aus dem Verein ausgeschlossen werden.
 
 ### § 9 Auflösung / Wegfall des steuerbegünstigten Zwecks
 Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt eventuell vorhandenes Vermögen des Vereins an eine gemeinnützige Einrichtung in Lohmar mit dem Ziel, die Tradition des „Ääzebär-Treiben" in Lohmar fortzuführen.

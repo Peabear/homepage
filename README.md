@@ -9,6 +9,8 @@
 - Used categories: `aktuelles`
 - Used tags
   - `ääzebärtreiben`: Posts über das Ääzebärtreiben
+  - `ankündigung`: Posts über Ankündigungen, dass etwas andere passieren wird
+  - `ehrung`: Posts über Ehrungen
   - `spende`: Posts über Spenden des Ääzebärs
   - `vereinsintern`: Posts über Vereinsinterna, z.B. Jahreshauptversammlung
   - `vorstand`: Posts über Veränderungen des Vorstands
