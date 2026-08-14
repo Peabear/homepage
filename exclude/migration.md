@@ -1,6 +1,6 @@
 # Migration der alten Seite
 
-Hinweis: Ordner mit weiteren Bildern können in [.gitignore](/.gitignore) eingesehen werden
+Hinweis: Ordner mit weiteren Bildern kannen in [.gitignore (dieser Link klappt nicht im Internet)](/.gitignore) eingesehen werden 
 
 ## Normale Seiten
 
