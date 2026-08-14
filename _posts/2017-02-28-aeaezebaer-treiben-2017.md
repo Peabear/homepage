@@ -12,7 +12,7 @@ header:
 ---
 
 
-Dienstag Morgen trafen sich die Ääzebärtreiber im "La Casa Loca", um ab 10 Uhr in den Geschäften rund um Hauptstraße und Nebenstraßen Spenden für einen guten Zweck zu sammeln.
+Dienstag Morgen trafen sich die Ääzebärtreiber im „La Casa Loca“, um ab 10 Uhr in den Geschäften rund um Hauptstraße und Nebenstraßen Spenden für einen guten Zweck zu sammeln.
 
 Da es sich das Lohmarer Dreigestirn nicht nehmen ließ, die Truppe ganztägig zu begleiten und auch wechselnd viele Mitglieder des Gefolges mitmachten, waren eigentlich immer um die zwanzig Leute unterwegs. Ganz davon abgesehen, dass die auch alle etwas in die Sammelbüchse steckten.
 

@@ -17,4 +17,4 @@ Mir sin wie immer vun wiggem zu hüre, also kutt och dis Johr op uns zo un dot e
 
 Wenn mir noch nie bei Üch woore: saat Bescheed, wenn et jeit, kumme mir vorbei. Wenn ihr jet övverwiese wullt, hilft Üch dat Nümmerche IBAN DE07 3705 0299 3023 0315 74 sicher wigger.
 
-Usjezällt wed wie immer ab 19 Uhr öffentlich im "Ahl Jecke"-Zelt.
+Usjezällt wed wie immer ab 19 Uhr öffentlich im „Ahl Jecke“-Zelt.

@@ -16,7 +16,7 @@ header:
   }
 </style>
 
-Obwohl der Montag natürlich lang war, trafen sich um 09:30 Uhr im "La Casa Loca" die Mitglieder des Ääzebär e.V. mit Dreigestirn und Teilen des Gefolges zur traditionellen Rundreise durch die Lohmarer Geschäftswelt, um für den Guten Zweck zu sammeln. Es waren übrigens insgesamt 5 amtierende oder ehemalige Prinzen, ein Bauer, eine Jungfrau, eine Ex-Jungfrau und eine Ex-Prinzession mit dem Ääzebär unterwegs.
+Obwohl der Montag natürlich lang war, trafen sich um 09:30 Uhr im „La Casa Loca“ die Mitglieder des Ääzebär e.V. mit Dreigestirn und Teilen des Gefolges zur traditionellen Rundreise durch die Lohmarer Geschäftswelt, um für den Guten Zweck zu sammeln. Es waren übrigens insgesamt 5 amtierende oder ehemalige Prinzen, ein Bauer, eine Jungfrau, eine Ex-Jungfrau und eine Ex-Prinzession mit dem Ääzebär unterwegs.
 
 Geschäftsleute und Banken, aber auch zufällig vorbeikommende Bekannte oder Privatpersonen ließen sich ebenso wenig lumpen wie unser Bürgermeister, bei dem die Truppe seit Jahren zu einer kleinen Flüssigkeitsaufnahme einkehrt.
 

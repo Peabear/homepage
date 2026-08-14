@@ -1,6 +1,6 @@
 ---
 title: "Ääzebär&shy;treiben 2026"
-excerpt: "Mit dem Dreigestirn nahmen 21 Personen am \"Kött-Walk\" teil und sammelten 2.224,01 EUR für den guten Zweck."
+excerpt: "Mit dem Dreigestirn nahmen 21 Personen am „Kött-Walk“ teil und sammelten 2.224,01 EUR für den guten Zweck."
 categories:
   - aktuelles
 tags:
