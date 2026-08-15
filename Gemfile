@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 # Core Jekyll and theme
 gem "jekyll", "~> 4.3"
-gem "minimal-mistakes-jekyll", "4.28.0"
+gem "minimal-mistakes-jekyll", "4.28.1"
 
 # Plugins defined in your _config.yml
 group :jekyll_plugins do
