@@ -69,7 +69,7 @@ defaults:
       author_profile: true
 
 # site properties
-email: peabear@web.de # ATTENTION: Also check mail adress in author-info when changing!
+email: vorstand@aeaezebaer.de # ATTENTION: Also check mail adress in author-info when changing!
 
 author:
   name: "Ääzebär e.V. Lohmar"
@@ -79,7 +79,7 @@ author:
   links:
     - label: Email
       icon: "fas fa-square-envelope"
-      url: "mailto:peabear@web.de" # ATTENTION: Also check mail adress in site properties when changing!
+      url: "mailto:vorstand@aeaezebaer.de" # ATTENTION: Also check mail adress in site properties when changing!
     - label: Facebook
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/Aeaezebaer/" # ATTENTION: Also check social-links when changing!
