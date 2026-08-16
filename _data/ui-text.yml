@@ -1,0 +1,8 @@
+# hierarchical extension of UI-texts. Note: key has to be the same as in locale in _config.yml
+
+de-DE:
+ back_to_top              : "Nach oben"
+
+de:
+ back_to_top              : "Nach oben"
+

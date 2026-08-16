@@ -6,7 +6,7 @@ og_image: /assets/images/ab-logo_w.jpg # image used when sharing links. Can be a
 url: "https://peabear.github.io" # ATTENTION: Also check social-links when changing!
 baseurl: "/homepage" # ATTENTION: check links within this config (e.g. in footer) when changing!
 
-minimal_mistakes_skin: "default" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "aqua" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Build settings
@@ -19,7 +19,8 @@ encoding: utf-8 # no official jekyll standard, but: might help and will not brea
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-locale: de_DE
+locale: de-DE # important: - instead of _
+date_format: "%d.%m.%Y" # german date format - using numbers for months since german names do not work
 timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 plugins:
@@ -57,6 +58,8 @@ defaults:
       share: false # Displays social media buttons (Twitter, Facebook, LinkedIn, etc.), allowing readers to share your post with a single click.
       related: false # Enables the "You May Also Enjoy" section. Displays similar posts here (based on shared tags or categories).
       author_profile: true
+      header:
+        teaser: "/assets/images/ab-logo_w.jpg"
   # _pages
   - scope:
       path: "_pages"
@@ -77,12 +80,12 @@ author:
     - label: Email
       icon: "fas fa-square-envelope"
       url: "mailto:peabear@web.de" # ATTENTION: Also check mail adress in site properties when changing!
-    - label: Facebook TODO-LINK
+    - label: Facebook
       icon: "fab fa-fw fa-facebook"
-      url: "TODO" # ATTENTION: Also check social-links when changing!
+      url: "https://www.facebook.com/Aeaezebaer/" # ATTENTION: Also check social-links when changing!
 
 atom_feed: 
   hide: true # not rendered anyway as long as search is active. So I put RSS feed to footer explicitly
 
 footer:
-  extra_footer_content: '© 2026 Ääzebär e.V. Lohmar &#124; <a href="/homepage/feed.xml"><i class="fas fa-square-rss" style="color: #ee802f;"></i> RSS Feed</a> &#124; <a href="/homepage/legal/"><i class="fas fa-scale-balanced"></i> Impressum, Datenschutzerklärung und Haftungsausschluss</a>'
+  extra_footer_content: '© 2008 - 2026 Ääzebär e.V. Lohmar &#124; <a href="/homepage/feed.xml"><i class="fas fa-square-rss" style="color: #ee802f;"></i> RSS Feed</a> &#124; <a href="/homepage/legal/"><i class="fas fa-scale-balanced"></i> Impressum und Datenschutzerklärung</a>'

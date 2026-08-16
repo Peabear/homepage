@@ -1,10 +1,11 @@
 ---
 title: "Neuer Vorstand gewählt"
-excerpt: "TODO"
+excerpt: "Auf der Mitglieder&shy;versammlung wurde ein neuer Vorstand gewählt."
 categories:
-  - blog
+  - aktuelles
 tags:
-  - todo
+  - vereinsintern
+  - vorstand
 ---
 
 
