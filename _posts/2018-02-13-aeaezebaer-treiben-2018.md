@@ -27,14 +27,14 @@ Hier ein paar Fotos... (nm)
 
 
 
-![Der Bär tanzt in der Lindenapotheke]({{ '/assets/images/2018-02-13/IMG_5993.jpg' | relative_url }} "Der Bär tanzt in der Lindenapotheke")
+![Der Bär tanzt in der Lindenapotheke]({{ '/assets/images/2018-02-13/IMG_5993.jpg' | relative_url }} "Der Bär tanzt in der Lindenapotheke")  
 Der Bär tanzt in der Lindenapotheke
 {: .text-center}
 
-![Erschöpfte Vereinsmitglieder]({{ '/assets/images/2018-02-13/IMG_5994.jpg' | relative_url }} "Erschöpfte Vereinsmitglieder")
+![Erschöpfte Vereinsmitglieder]({{ '/assets/images/2018-02-13/IMG_5994.jpg' | relative_url }} "Erschöpfte Vereinsmitglieder")  
 Erschöpfte Vereinsmitglieder
 {: .text-center}
 
-![Gruppenfoto der Bärentreiber des Ääzebär]({{ '/assets/images/2018-02-13/IMG_5995.jpg' | relative_url }} "Gruppenfoto der Bärentreiber des Ääzebär")
+![Gruppenfoto der Bärentreiber des Ääzebär]({{ '/assets/images/2018-02-13/IMG_5995.jpg' | relative_url }} "Gruppenfoto der Bärentreiber des Ääzebär")  
 Gruppenfoto der Bärentreiber des Ääzebär
 {: .text-center}

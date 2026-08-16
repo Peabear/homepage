@@ -19,15 +19,15 @@ Auch zwei heftige Schauern konnten die 13 Karnevalisten, die heute unterwegs war
 Bei der Auszählung ab 19 Uhr im Feuerwehrhaus ergab sich dann ein Erlös der Sammlung von 1.287,55 EUR. Hier ein paar Bilder vom langen Tag des Ääzebärs. (nm)
 
 
-![Gruppenfoto der Bärentreiber des Ääzebär]({{ '/assets/images/2019-03-05/IMG_9407.jpg' | relative_url }} "Gruppenfoto der Bärentreiber des Ääzebär")
+![Gruppenfoto der Bärentreiber des Ääzebär]({{ '/assets/images/2019-03-05/IMG_9407.jpg' | relative_url }} "Gruppenfoto der Bärentreiber des Ääzebär")  
 Gruppenfoto der Bärentreiber des Ääzebär
 {: .text-center}
 
 
-![Der Bär tanzt bei Optiker und Hörakustik Hennes]({{ '/assets/images/2019-03-05/IMG_9409.jpg' | relative_url }} "Der Bär tanzt bei Optiker und Hörakustik Hennes")
+![Der Bär tanzt bei Optiker und Hörakustik Hennes]({{ '/assets/images/2019-03-05/IMG_9409.jpg' | relative_url }} "Der Bär tanzt bei Optiker und Hörakustik Hennes")  
 Der Bär tanzt bei Optiker und Hörakustik Hennes
 {: .text-center}
 
-![Bürgermeister Horst Krybus an der Spendendose]({{ '/assets/images/2019-03-05/IMG_9450.jpg' | relative_url }} "Bürgermeister Horst Krybus an der Spendendose")
+![Bürgermeister Horst Krybus an der Spendendose]({{ '/assets/images/2019-03-05/IMG_9450.jpg' | relative_url }} "Bürgermeister Horst Krybus an der Spendendose")  
 Bürgermeister Horst Krybus an der Spendendose
 {: .text-center}

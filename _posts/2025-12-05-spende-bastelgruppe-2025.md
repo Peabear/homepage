@@ -23,14 +23,14 @@ Die Mitglieder des Ääzebär e.V. ziehen jedes Jahr am Veilchendienstag durch L
 Auch die Bastelgruppe der Villa Friedlinde erhielt einen Zuschuss für Bastelmaterial.
 Beatrix Marunde (Kassiererin des Ääzebär e.V.) überreichte heute im Rahmen der regelmässigen Kreativ-Werkstatt eine Spende in Höhe von 150 EUR an Jutta Muskatewitz. (nm)
 
-![Beatrix Marunde (2.v.l.) übergibt den Betrag an Jutta Muskatewitz]({{ '/assets/images/2025-12-05/01.jpg' | relative_url }} "Beatrix Marunde (2.v.l.) übergibt den Betrag an Jutta Muskatewitz")
+![Beatrix Marunde (2.v.l.) übergibt den Betrag an Jutta Muskatewitz]({{ '/assets/images/2025-12-05/01.jpg' | relative_url }} "Beatrix Marunde (2.v.l.) übergibt den Betrag an Jutta Muskatewitz")  
 Spendenübergabe: Beatrix Marunde (2.v.l.) übergibt den Betrag an Jutta Muskatewitz
 {: .text-center}
 
-![Ääzebär e.V. am Veilchendienstag]({{ '/assets/images/2025-12-05/02.jpg' | relative_url }} "Ääzebär e.V. am Veilchendienstag")
+![Ääzebär e.V. am Veilchendienstag]({{ '/assets/images/2025-12-05/02.jpg' | relative_url }} "Ääzebär e.V. am Veilchendienstag")  
 Ääzebär e.V. am Veilchendienstag
 {: .text-center}
 
-![Kreativ-Werkstatt: Jeder kann mitmachen]({{ '/assets/images/2025-12-05/03.jpg' | relative_url }} "Kreativ-Werkstatt: Jeder kann mitmachen")
+![Kreativ-Werkstatt: Jeder kann mitmachen]({{ '/assets/images/2025-12-05/03.jpg' | relative_url }} "Kreativ-Werkstatt: Jeder kann mitmachen")  
 Kreativ-Werkstatt: Jeder kann mitmachen
 {: .text-center}

@@ -19,17 +19,17 @@ Unsere Gruppe war diesmal etwas größer, da das Lohmarer Prinzenpaar sich nicht
 Insgesamt waren wir mit 12 Mann unterwegs.
 
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
-  <a href="{{ '/assets/images/2012-02-21/P1030874-W800.jpg' | relative_url }}" style="width: 45%; min-width: 250px;">
+<div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
+  <a href="{{ '/assets/images/2012-02-21/P1030874-W800.jpg' | relative_url }}" style="flex: 1;; min-width: 250px;">
     <img src="{{ '/assets/images/2012-02-21/P1030874-W800.jpg' | relative_url }}" alt="Eindrücke vom Ääzebärtreiben 2012" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">
   </a>
-  <a href="{{ '/assets/images/2012-02-21/P1030916-W800.jpg' | relative_url }}" style="width: 45%; min-width: 250px;">
+  <a href="{{ '/assets/images/2012-02-21/P1030916-W800.jpg' | relative_url }}" style="flex: 1;; min-width: 250px;">
     <img src="{{ '/assets/images/2012-02-21/P1030916-W800.jpg' | relative_url }}" alt="Eindrücke vom Ääzebärtreiben 2012" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">
   </a>
-    <a href="{{ '/assets/images/2012-02-21/P1030919-W800.jpg' | relative_url }}" style="width: 45%; min-width: 250px;">
+    <a href="{{ '/assets/images/2012-02-21/P1030919-W800.jpg' | relative_url }}" style="flex: 1;; min-width: 250px;">
     <img src="{{ '/assets/images/2012-02-21/P1030919-W800.jpg' | relative_url }}" alt="Eindrücke vom Ääzebärtreiben 2012" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">
   </a>
-  <a href="{{ '/assets/images/2012-02-21/P1030921-W800.jpg' | relative_url }}" style="width: 45%; min-width: 250px;">
+  <a href="{{ '/assets/images/2012-02-21/P1030921-W800.jpg' | relative_url }}" style="flex: 1;; min-width: 250px;">
     <img src="{{ '/assets/images/2012-02-21/P1030921-W800.jpg' | relative_url }}" alt="Eindrücke vom Ääzebärtreiben 2012" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">
   </a>
 </div>

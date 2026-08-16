@@ -23,6 +23,6 @@ Bis zum 28. April 2016, 12:00 Uhr kann per Handy abgestimmt werden, welche Verei
 
 Dann stimmt mal heftig für den Ääzebär ab!
 
-![Peter Drossard, Norbert Muskatewitz, Olaf Giese, Harald Kreisel, Wilfried Meng, Josef Brühl und Norbert Kreisel]({{ '/assets/images/2016-03-31/160331_baer.jpg' | relative_url }} "Peter Drossard, Norbert Muskatewitz, Olaf Giese, Harald Kreisel, Wilfried Meng, Josef Brühl und Norbert Kreisel")
+![Peter Drossard, Norbert Muskatewitz, Olaf Giese, Harald Kreisel, Wilfried Meng, Josef Brühl und Norbert Kreisel]({{ '/assets/images/2016-03-31/160331_baer.jpg' | relative_url }} "Peter Drossard, Norbert Muskatewitz, Olaf Giese, Harald Kreisel, Wilfried Meng, Josef Brühl und Norbert Kreisel")  
 V.l.n.r.: Peter Drossard, Norbert Muskatewitz, Olaf Giese, Harald Kreisel, Wilfried Meng, Josef Brühl und Norbert Kreisel
 {: .text-center}

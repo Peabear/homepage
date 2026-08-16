@@ -35,16 +35,16 @@ Danke an alle Spender und Unterstützer.
 Der Ääzebär geht jetzt in die wohlverdiente Sommerpause. (nm)
 
 
-![Gruppenfoto der Bärentreiber des Ääzebär]({{ '/assets/images/2016-02-09/IMG_0490.jpg' | relative_url }} "Gruppenfoto der Bärentreiber des Ääzebär")
+![Gruppenfoto der Bärentreiber des Ääzebär]({{ '/assets/images/2016-02-09/IMG_0490.jpg' | relative_url }} "Gruppenfoto der Bärentreiber des Ääzebär")  
 Gruppenfoto der Bärentreiber des Ääzebär
 {: .text-center}
 
 
-![Bürgermeister Horst Krybus an der Spendendose]({{ '/assets/images/2016-02-09/IMG_0510.jpg' | relative_url }} "Bürgermeister Horst Krybus an der Spendendose")
+![Bürgermeister Horst Krybus an der Spendendose]({{ '/assets/images/2016-02-09/IMG_0510.jpg' | relative_url }} "Bürgermeister Horst Krybus an der Spendendose")  
 Bürgermeister Horst Krybus an der Spendendose
 {: .text-center}
 
-![Peter Drossard verkündet das Spendenergebnis im Zelt der „Ahl Jecke“]({{ '/assets/images/2016-02-09/IMG_0614.jpg' | relative_url }} "Peter Drossard verkündet das Spendenergebnis im Zelt der „Ahl Jecke“")
+![Peter Drossard verkündet das Spendenergebnis im Zelt der „Ahl Jecke“]({{ '/assets/images/2016-02-09/IMG_0614.jpg' | relative_url }} "Peter Drossard verkündet das Spendenergebnis im Zelt der „Ahl Jecke“")  
 Peter Drossard verkündet das Spendenergebnis im Zelt der „Ahl Jecke“
 {: .text-center}
 

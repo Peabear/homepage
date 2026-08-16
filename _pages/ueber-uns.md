@@ -49,11 +49,11 @@ img[alt="Buchcover von Lohmarer Mundart in Reim und Prosa"] {
 
 
 Ääzebär von 1954:
-<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
-  <a href="{{ '/assets/images/1954-03-02/1954_1.jpg' | relative_url }}" style="width: 45%; min-width: 250px;">
+<div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
+  <a href="{{ '/assets/images/1954-03-02/1954_1.jpg' | relative_url }}" style="flex: 1; min-width: 250px;">
     <img src="{{ '/assets/images/1954-03-02/1954_1.jpg' | relative_url }}" alt="Ääzebär von 1954" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">
   </a>
-  <a href="{{ '/assets/images/1954-03-02/1954_2.jpg' | relative_url }}" style="width: 45%; min-width: 250px;">
+  <a href="{{ '/assets/images/1954-03-02/1954_2.jpg' | relative_url }}" style="flex: 1; min-width: 250px;">
     <img src="{{ '/assets/images/1954-03-02/1954_2.jpg' | relative_url }}" alt="Ääzebär von 1954 - Rückseite" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">
   </a>
 </div>
@@ -124,11 +124,11 @@ Lohmar, 09. Juli 2008
 
 Gründungsprotokoll:
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
-  <a href="{{ '/assets/images/gruendungsprotokoll/00000001.jpg' | relative_url }}" style="width: 45%; min-width: 250px;">
+<div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
+  <a href="{{ '/assets/images/gruendungsprotokoll/00000001.jpg' | relative_url }}" style="flex: 1; min-width: 250px;">
     <img src="{{ '/assets/images/gruendungsprotokoll/00000001.jpg' | relative_url }}" alt="Gründungsprotokoll - Seite 1" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">
   </a>
-  <a href="{{ '/assets/images/gruendungsprotokoll/00000002.jpg' | relative_url }}" style="width: 45%; min-width: 250px;">
+  <a href="{{ '/assets/images/gruendungsprotokoll/00000002.jpg' | relative_url }}" style="flex: 1; min-width: 250px;">
     <img src="{{ '/assets/images/gruendungsprotokoll/00000002.jpg' | relative_url }}" alt="Gründungsprotokoll - Seite 2" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">
   </a>
 </div>

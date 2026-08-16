@@ -22,14 +22,14 @@ Soviel ist noch nie zusammengekommen :-)
 Hier ein paar Fotos. (nm)
 
 
-![Besuch der Firma Emitec]({{ '/assets/images/2025-03-04/08.jpg' | relative_url }} "Besuch der Firma Emitec")
+![Besuch der Firma Emitec]({{ '/assets/images/2025-03-04/08.jpg' | relative_url }} "Besuch der Firma Emitec")  
 Besuch der Firma Emitec
 {: .text-center}
 
-![Besuch der VR Bank]({{ '/assets/images/2025-03-04/0N2A2177.jpg' | relative_url }} "Besuch der VR Bank")
+![Besuch der VR Bank]({{ '/assets/images/2025-03-04/0N2A2177.jpg' | relative_url }} "Besuch der VR Bank")  
 Besuch der VR Bank
 {: .text-center}
 
-![Die Prinzessin auf dem Stuhl der Bürgermeisterin]({{ '/assets/images/2025-03-04/0N2A2222.jpg' | relative_url }} "Die Prinzessin auf dem Stuhl der Bürgermeisterin")
+![Die Prinzessin auf dem Stuhl der Bürgermeisterin]({{ '/assets/images/2025-03-04/0N2A2222.jpg' | relative_url }} "Die Prinzessin auf dem Stuhl der Bürgermeisterin")  
 Die Prinzessin auf dem Stuhl der Bürgermeisterin
 {: .text-center}

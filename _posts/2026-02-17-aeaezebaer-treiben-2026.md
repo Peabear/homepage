@@ -18,6 +18,8 @@ Im Bär steckte erneut Patrick Marunde, das Dreigestirn nahm wie alle trotz des 
 Nach der Auszählung im HGV-Haus stand ein Ergebnis von 2.224,01 EUR für den guten Zweck fest. (nm)
 
 
-![Gruppenfoto bei Emitec]({{ '/assets/images/2026-02-17/aeaeze.jpg' | relative_url }} "Gruppenfoto bei Emitec")
+![Gruppenfoto bei Emitec]({{ '/assets/images/2026-02-17/aeaeze.jpg' | relative_url }} "Gruppenfoto bei Emitec")  
+Gruppenfoto bei Emitec
+{: .text-center}
 
 [Weitere Fotos und Videos auf www.in-lohmar.de](https://tinyurl.com/mw6m2zw9)

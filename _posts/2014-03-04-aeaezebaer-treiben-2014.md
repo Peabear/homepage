@@ -19,16 +19,16 @@ Hier ein paar Fotos...
 Diesmal gab es ein super Ergebnis von 2.274,16 EUR.
 
 
-![Gruppenfoto der Bärentreiber des Ääzebär]({{ '/assets/images/2014-03-04/P1150857.jpg' | relative_url }} "Gruppenfoto der Bärentreiber des Ääzebär")
+![Gruppenfoto der Bärentreiber des Ääzebär]({{ '/assets/images/2014-03-04/P1150857.jpg' | relative_url }} "Gruppenfoto der Bärentreiber des Ääzebär")  
 Gruppenfoto der Bärentreiber des Ääzebär
 {: .text-center}
 
 
-![Der Ääzebär und Bürgermeister Wolfgang Röger]({{ '/assets/images/2014-03-04/P1150922.jpg' | relative_url }} "Der Ääzebär und Bürgermeister Wolfgang Röger")
+![Der Ääzebär und Bürgermeister Wolfgang Röger]({{ '/assets/images/2014-03-04/P1150922.jpg' | relative_url }} "Der Ääzebär und Bürgermeister Wolfgang Röger")  
 Der Ääzebär und Bürgermeister Wolfgang Röger
 {: .text-center}
 
 
-![Alltag beim „Kött-Walk“]({{ '/assets/images/2014-03-04/P1150941.jpg' | relative_url }} "Alltag beim „Kött-Walk“")
+![Alltag beim „Kött-Walk“]({{ '/assets/images/2014-03-04/P1150941.jpg' | relative_url }} "Alltag beim „Kött-Walk“")  
 Alltag beim „Kött-Walk“
 {: .text-center}

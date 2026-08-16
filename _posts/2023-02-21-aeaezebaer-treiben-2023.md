@@ -23,14 +23,14 @@ Das Ergebnis der öffentlichen Auszählung gegen 19 Uhr war dann 1.729,62 EUR.
 
 Hier ein paar Fotos. (nm)
 
-![Gruppenfoto des Ääzebärtreiben 2023]({{ '/assets/images/2023-02-21/IMG_4484.jpg' | relative_url }} "Gruppenfoto des Ääzebärtreiben 2023")
+![Gruppenfoto des Ääzebärtreiben 2023]({{ '/assets/images/2023-02-21/IMG_4484.jpg' | relative_url }} "Gruppenfoto des Ääzebärtreiben 2023")  
 Gruppenfoto des Ääzebärtreiben 2023
 {: .text-center}
 
-![Bürgermeisterin Claudia Wieja tanzt mit dem Ääzebär]({{ '/assets/images/2023-02-21/IMG_4524.jpg' | relative_url }} "Bürgermeisterin Claudia Wieja tanzt mit dem Ääzebär")
+![Bürgermeisterin Claudia Wieja tanzt mit dem Ääzebär]({{ '/assets/images/2023-02-21/IMG_4524.jpg' | relative_url }} "Bürgermeisterin Claudia Wieja tanzt mit dem Ääzebär")  
 Bürgermeisterin Claudia Wieja tanzt mit dem Ääzebär
 {: .text-center}
 
-![Zählen der Spendgelder]({{ '/assets/images/2023-02-21/IMG_4636.jpg' | relative_url }} "Zählen der Spendgelder")
+![Zählen der Spendgelder]({{ '/assets/images/2023-02-21/IMG_4636.jpg' | relative_url }} "Zählen der Spendgelder")  
 Zählen der Spendgelder
 {: .text-center}

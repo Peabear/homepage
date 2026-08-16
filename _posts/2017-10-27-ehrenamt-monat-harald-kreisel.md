@@ -1,6 +1,6 @@
 ---
 title: "Ehrenamt des Monats: Harald Kreisel"
-excerpt: "Die Stadt Lohmar zeichnet unser Vereinsmitglied Harald Kreisel mit dem \"Ehrenamt des Monats\" aus."
+excerpt: "Die Stadt Lohmar zeichnet unser Vereinsmitglied Harald Kreisel mit dem „Ehrenamt des Monats“ aus."
 categories:
   - aktuelles
 tags:
