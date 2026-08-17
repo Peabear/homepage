@@ -9,4 +9,4 @@ tags:
 ---
 
 
-ie Mitgliederversammlung vom 07.05.2010 hat den gesamten Vorstand mit Ausnahme des Kassierers, der aus gesundheitlichen Gründen nicht mehr kandidierte, im Amt bestätigt. Neue Kassiererin ist Beatrix Marunde.
+Die Mitgliederversammlung vom 07.05.2010 hat den gesamten Vorstand mit Ausnahme des Kassierers, der aus gesundheitlichen Gründen nicht mehr kandidierte, im Amt bestätigt. Neue Kassiererin ist Beatrix Marunde.
