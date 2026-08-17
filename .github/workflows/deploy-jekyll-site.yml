@@ -5,6 +5,11 @@ on:
     branches: ["**"]      # Build on every push to any branch
   workflow_dispatch:      # Enable manual triggers via the "Run workflow" button
     inputs:
+      skip_html_validation:
+        description: 'skip HTML validation?'
+        required: false
+        type: boolean
+        default: false
       force_deploy:
         description: 'Force deployment on manual trigger?'
         required: false
@@ -45,6 +50,10 @@ jobs:
 
       - name: validate EUR
         run: bundle exec ruby exclude/validate-eur.rb
+
+      - name: Validate HTML
+        if: ${{ github.event.inputs.skip_html_validation != 'true' }}
+        run: bundle exec ruby exclude/validate-html.rb
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
