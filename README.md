@@ -31,10 +31,11 @@
   - For testing, it can be deployed manually from feature branches  
     Note: the branch must be explicitly mentioned in `github-pages` environment
   - Markdown files are validated to avoid `€` and the usage of `Euro` as currency using the Ruby script [validate-eur.rb](exclude/validate-eur.rb)
-
+  - The generated HTML pages are validated by `html-proofer` using the Ruby script [validate-html.rb](exclude/validate-html.rb)   
 - Local development:
   - Build pages and start the server `bundle exec jekyll serve --livereload`
   - Validate EUR in provided markdown files: `bundle exec ruby exclude/validate-eur.rb`
+  - Validate HTML: `bundle exec ruby exclude/validate-html.rb --swap-localhost`
 - Dependencies of `Ruby` and `Github Actions`are managed with Dependabot **[.github/dependabot.yml](.github/dependabot.yml)**
 
 ## 🔗 Useful Links
