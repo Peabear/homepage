@@ -14,7 +14,7 @@ header:
 
 Am Veilchendienstag starteten 21 Teilnehmer um 10 Uhr den "Kött-Walk" - ein Spendenmarathon auf Lohmars Straßen.
 
-Im Bär steckte erneut Patrick Marunde, das Dreigestirn nahm wie alle trotz des schlechten Wetters gerne an der Sammlung teil.
+Im Bär steckte erneut Patrick Marunde. Das Dreigestirn nahm wie alle trotz des schlechten Wetters gerne an der Sammlung teil.
 Nach der Auszählung im HGV-Haus stand ein Ergebnis von 2.224,01 EUR für den guten Zweck fest. (nm)
 
 
