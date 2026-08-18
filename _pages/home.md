@@ -18,9 +18,7 @@ classes: wide
     </li>
     <li>no commenting available</li>
     <li>no social sharing available</li>
-    <li>no html validation available</li>
     <li>galleries are not yet available (and ignored by git)</li>
-    <li>original about-us still available, but not via navigation</li>
   </ul>
 </details>
 {: .notice--danger}
