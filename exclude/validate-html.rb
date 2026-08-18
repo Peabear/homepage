@@ -1,6 +1,6 @@
 require 'html-proofer'
 require 'pp'
-require 'yaml' # Add this line
+require 'yaml'
 
 # Target directory
 target_directory = "./_site"
@@ -10,22 +10,22 @@ config_file = "_config.yml"
 baseurl = ""
 url = ""
 
-if File.exist?(config_file)
-  begin
-    config = YAML.load_file(config_file)
-    # Jekyll config keys are strings by default; ensure it fallback safely
-    baseurl = config['baseurl'] || "" 
-    url = config['url'] || "" 
-    puts "Loaded from #{config_file}: url='#{url}', baseurl='#{baseurl}'"
-  rescue => e
-    puts "Warning: Could not parse #{config_file} (#{e.message}). Using empty urls."
-  end
-else
-  puts "Warning: #{config_file} not found. Using empty baseurl."
+begin
+  # YAML.load_file automatically fails if the file does not exist
+  config = YAML.load_file(config_file) || {}
+  
+  # .fetch directly raises a KeyError if the key is missing
+  url = config.fetch('url')
+  baseurl = config.fetch('baseurl')
+  
+  puts "Loaded from #{config_file}: url='#{url}', baseurl='#{baseurl}'"
+rescue => e
+  puts "Critical Error: Failed to load configuration from #{config_file} (#{e.message})."
+  exit 1
 end
 
 
-# Prepare URL swapping depending on url, baseurl and the --swap-localhost uparameter
+# Prepare URL swapping depending on url, baseurl and the --swap-localhost parameter
 swap_localhost = ARGV.include?('--swap-localhost')
 url_swaps = {}
 if !url.empty? && url != "/"
