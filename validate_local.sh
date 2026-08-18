@@ -2,6 +2,8 @@
 
 # Define scripts in a list (array)
 SCRIPTS=(
+  "bundle exec ruby exclude/postprocess_and_validate_llms_full.rb"
+  "bundle exec ruby exclude/validate-published-files.rb"
   "bundle exec ruby exclude/validate-eur.rb"
   "bundle exec ruby exclude/validate-html.rb --swap-localhost" # will opften fail locally -> execute at last!
 )
