@@ -1,0 +1,4 @@
+{% if page.tags and page.tags.size > 0 %}
+  <!-- AI and Search Engine Semantics: Page Tags -->
+  <meta name="keywords" content="{{ page.tags | join: ', ' | escape }}">
+{% endif %}
