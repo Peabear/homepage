@@ -51,6 +51,9 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      - name: Validate published files and directories
+        run: bundle exec ruby exclude/validate-published-files.rb
+
       - name: Validate EUR
         run: bundle exec ruby exclude/validate-eur.rb
 

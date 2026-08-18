@@ -1,0 +1,41 @@
+---
+layout: null
+permalink: /llms-full.txt
+allowed_pages:
+  - "Spenden für den guten Zweck"
+  - "Über uns"
+---
+# {{ site.title | unescape_html }} – {{ site.subtitle | unescape_html }} (Full-Text Repository)
+
+> {{ site.description | unescape_html }}
+
+This file provides the complete, unabridged content of "{{ site.url }}{{ site.baseurl }}"'s blog posts and selected pages for LLMs and AI assistants.
+
+---
+
+## Posts
+{%- assign current_posts = site.posts | where_exp: "item", "item.date <= site.time" -%}
+{%- for post in current_posts %}
+---
+### [Post] {{ post.title | unescape_html }} – {{ site.url }}{{ site.baseurl }}{{ post.url }}
+- **Created:** {{ post.date | date: "%Y-%m-%d" }}{% if post.last_modified_at %}, **Updated:** {{ post.last_modified_at | date: "%Y-%m-%d" }}{% endif %}
+{%- if post.tags.size > 0 %}
+- **Keywords:** {{ post.tags | join: ', ' | unescape_html }}
+{%- endif %}
+- **Words:** {{ post.content | strip_html | number_of_words }}
+
+#### Content
+{{ post.raw_md | default: post.content }}
+{%- endfor %}
+
+## Pages
+{%- for page_item in site.pages %}
+  {%- if page_item.title and page.allowed_pages contains page_item.title %}
+---
+### [Page] {{ page_item.title | unescape_html }} – {{ site.url }}{{ site.baseurl }}{{ page_item.url }}
+- **Words:** {{ page_item.content | strip_html | number_of_words }}
+
+#### Content
+{{ page_item.raw_md | default: page_item.content }}
+  {%- endif %}
+{%- endfor %}
