@@ -10,13 +10,13 @@ header:
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
   <a href="{{ '/assets/images/2017-02-14/170214_bsl10.jpg' | relative_url }}" style="width: 45%; min-width: 250px;">
-    <img src="{{ '/assets/images/2017-02-14/170214_bsl10.jpg' | relative_url }}" alt="Ääzebär von 1954" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">
+    <img src="{{ '/assets/images/2017-02-14/170214_bsl10.jpg' | relative_url }}" alt="Mitglieder des Vereinskomitees Lohmar e. V., des „Ääzebär“ e. V. Lohmar, das Birker Prinzenpaar mit Adjutanten, das Dreigestirn (Freiwillige Feuerwehr Lohmar) mit Adjutant, umrahmen die Mitglieder des Vorstandes der BürgerStiftungLohmar" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">
   </a>
   <a href="{{ '/assets/images/2017-02-14/170214_bsl20.jpg' | relative_url }}" style="width: 45%; min-width: 250px;">
-    <img src="{{ '/assets/images/2017-02-14/170214_bsl20.jpg' | relative_url }}" alt="Ääzebär von 1954 - Rückseite" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">
+    <img src="{{ '/assets/images/2017-02-14/170214_bsl20.jpg' | relative_url }}" alt="Mitglieder des Vereinskomitees Lohmar e. V., des „Ääzebär“ e. V. Lohmar, das Birker Prinzenpaar mit Adjutanten, das Dreigestirn (Freiwillige Feuerwehr Lohmar) mit Adjutant, umrahmen die Mitglieder des Vorstandes der BürgerStiftungLohmar" style="width: 100%; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">
   </a>
 </div>
-*Mitglieder des Vereinskomitees Lohmar e. V., des „Ääzebär“ e. V. Lohmar, das Birker Prinzenpaar mit Adjutanten, das Dreigestirn (Freiwillige Feuerwehr Lohmar) mit Adjutant, umrahmen die Mitglieder des Vorstandes der BürgerStiftungLohmar.*
+Mitglieder des Vereinskomitees Lohmar e. V., des „Ääzebär“ e. V. Lohmar, das Birker Prinzenpaar mit Adjutanten, das Dreigestirn (Freiwillige Feuerwehr Lohmar) mit Adjutant, umrahmen die Mitglieder des Vorstandes der BürgerStiftungLohmar.
 {: .figure__caption}
 
 Wie viele Alaafs pro Schlachtruf sind erlaubt? Gabriele Willscheid, Geschäftsführerin der BürgerStiftungLohmar, musste für die jüngste Vorstandssitzung zunächst den Karnevalsknigge bemühen, denn Lohmars närrischer Hochadel hatte sich mit dem Dreigestirn Prinz Sven I. (Ziaja), Bauer Lars (Vogel) und Jungfrau Christiane (Christian Felten) sowie dem Birker Prinzenpaar Frank II. und Ute I. (Laufenberg) angesagt. Mit dabei waren auch der Ääzebär, Bernd Köppen, und der Vorstand des Vereinskomitees Lohmar. Sie alle waren gekommen, um Unterstützung für das karnevalistische Brauchtum in der Aggerstadt zu erbitten, womit sie bei der BürgerStiftungLohmar offene Türen einrannten. Insgesamt 1.450 EUR ließ sich die Stiftung den Spaß an d’r Freud’ kosten.
