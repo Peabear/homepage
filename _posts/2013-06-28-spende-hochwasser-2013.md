@@ -21,6 +21,6 @@ header:
 Der Ääzebär beteiligt sich mit einer Spende am Hilfsfond der Stadt Lohmar für die Betroffenen des Hochwassers vom 20.06.2013.
 
 
-![Dankschreiben der Stadt]({{ '/assets/images/2013-06-28/130726_spende_hw.jpg' | relative_url }} "Dankschreiben der Stadt")  
+![Dankschreiben der Stadt]({{ site.baseurl }}/assets/images/2013-06-28/130726_spende_hw.jpg "Dankschreiben der Stadt")  
 Dankschreiben der Stadt
 {: .text-center}

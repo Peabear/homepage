@@ -11,8 +11,8 @@ tags:
 
 Leev Jecke!
 
-Am 09.02. danz de Bär widder de janze Daach durch et Dörp und sammelt für ne joode Zweck.
+Am 09.02. danzt de Bär widder de janze Daach durch et Dörp un sammelt für ne joode Zweck.
 
-Mir sin wie immer vun wiggem zu hüre, also kutt och dis Johr op uns zo un dot en paar Nüssele in unsere Sammelbüchs!
+Mir sin wie immer vun wiggem zu hüre, also kutt och dis Johr op uns zo un dot en paar Nüssele in unser Sammelbüchs!
 
 Usjezällt wed wie immer ab 19 Uhr öffentlich im „Ahl Jecke“-Zelt.

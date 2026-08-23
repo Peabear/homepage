@@ -12,7 +12,7 @@ header:
 ---
 
 
-Hier ein paar Fotos vom Ääzebärtreiben 2005. Im Bär war Gertrud Lennartz.
+Hier ein paar Fotos vom Ääzebärtreiben 2005. Im Bären war Gertrud Lennartz.
 
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">

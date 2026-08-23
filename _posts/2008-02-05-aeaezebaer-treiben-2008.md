@@ -14,13 +14,13 @@ header:
 
 Das diesjährige Ääzebär-Treiben (mit nach 32 Jahren erstmalig neuem Bärenkostüm) erbrachte einen Erlös von 1.254 EUR fürs Rote Kreuz und eine gehörige Erkältung für einen Teil der Mannschaft...
 
-Treiber waren dieses Jahr Peter Drossard, Olaf Giese im Bär, Harald und Norbert Kreisel, Wilfried Meng und Norbert Muskatewitz.
+Treiber waren dieses Jahr Peter Drossard, Olaf Giese (im Bären), Harald und Norbert Kreisel, Wilfried Meng und Norbert Muskatewitz.
 
 
-![Die Bärenjäger des Ääzebär]({{ '/assets/images/2008-02-05/baer2008_2.jpg' | relative_url }} "Die Bärenjäger des Ääzebär")  
+![Die Bärenjäger des Ääzebär]({{ site.baseurl }}/assets/images/2008-02-05/baer2008_2.jpg "Die Bärenjäger des Ääzebär")  
 Die Bärenjäger des Ääzebär
 {: .text-center}
 
-![Pressebericht]({{ '/assets/images/2008-02-05/baer2008_1.jpg' | relative_url }} "Pressebericht")  
+![Pressebericht]({{ site.baseurl }}/assets/images/2008-02-05/baer2008_1.jpg "Pressebericht")  
 Pressebericht
 {: .text-center}
