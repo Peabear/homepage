@@ -62,6 +62,7 @@ Im Jahr 1976, als die KG „Ahl Jecke“ mit Balthasar („Bältes“) und Annel
 
 
 ## Gründung des „Ääzebär“ e.V. Lohmar
+
 Bis zum Mai 2008 war der Ääzebär dem Vereinskomitee Lohmar angegliedert. In diesem Jahr gründete sich der neue Verein „Ääzebär“ e.V. Lohmar, um den Erhalt dieses traditionellen Brauches für die Zukunft dauerhaft sicherzustellen. Der Verein ist in das in das Vereinsregister beim Amtsgericht Siegburg eingetragen, als gemeinnützig anerkannt und Mitglied im Vereinskomitee Lohmar e.V.
 
 
