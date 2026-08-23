@@ -1,6 +1,6 @@
 ---
 title: "Bürger&shy;Stiftung&shy;Lohmar unterstützt das närrische Brauchtum"
-excerpt: "Das Lohmarer Dreigestirn sammelte mit den Bärenjägern des Ääzebär 1.913,82 EUR ein."
+excerpt: "Die Bürger&shy;Stiftung&shy;Lohmar überreicht eine Spende von 100 EUR an de Ääzebär."
 categories:
   - aktuelles
 tags:
@@ -26,7 +26,7 @@ Bevor aber Vorsitzende Renate Krämer die eher rhetorisch gemeinte Frage „Sull
 Dazu hatten die Besucherinnen und Besucher auch allen Grund. Über 450 EUR durfte sich der Förderverein der Freiwilligen Feuerwehr, Löschgruppe Lohmar, freuen, der in diesem Jahr das Lohmarer Prinzenpaar stellt. Das Geld, so erläuterte Adjutant Wilfried Meng, dient der Finanzierung des Tollitätenornats. „Darauf bin ich jetzt richtig neidisch“, gestand die Modeexpertin Renate Krämer, die sich als rheinische Frohnatur outete. Ebenso beeindruckt zeigte sie sich vom prächtigen Outfit des Birker Prinzenpaars, für das Oliver Vitt, Geschäftsführer des Fördervereins Löschgruppe Birk 1994 e. V., einen Scheck über 300 EUR entgegennahm.
 
 600 EUR machte die BürgerStiftungLohmar für das Vereinskomitee Lohmar e.V. locker, das jedes Jahr den Rosenmontagszug auf die Schiene hebt.
-Schließlich“, so witzelte deren Vorsitzender, Johannes Fingerhuth, „braucht auch ein Karnevalszug jede Menge Kohle, um unter Volldampf durch die Straßen ziehen zu können.“
+„Schließlich“, so witzelte deren Vorsitzender, Johannes Fingerhuth, „braucht auch ein Karnevalszug jede Menge Kohle, um unter Volldampf durch die Straßen ziehen zu können.“
 
 Und ein bisschen Kohle braucht auch der Ääzebär. 100 EUR nahm Vereinsvorsitzender Peter Drossard entgegen. „Solche Knöllchen bezahlen wir gern“, meinte Gabriele Willscheid, denn die Knöllchen, die Ääzebär Bernd Köppen stets an Veilchendienstag kassiert, wenn er tanzend durch die Lohmarer Geschäfte zieht, kommen gemeinnützigen Zwecken zu Gute und dienen zugleich der Erhaltung eines uralten Brauchs. Auf den freut sich nicht zuletzt Dr. Johannes Bolten. „Wenn der Ääzebär in unsere Apotheke kommt“, erzählt das Vorstandsmitglied der BürgerStiftungLohmar, „ist bei uns immer der Bär los.“
 

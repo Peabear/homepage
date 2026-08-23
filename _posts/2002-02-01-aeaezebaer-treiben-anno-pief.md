@@ -14,10 +14,10 @@ header:
 Hier zwei Fotos aus unbekannten Jahren. Vielleicht erinnert sich ja einer der Treiber, wann das war...
 
 
-![Die Bärenjäger des Ääzebär aus unkanntem Jahr]({{ '/assets/images/2002-02-01/annopief_1.jpg' | relative_url }} "Die Bärenjäger des Ääzebär aus unkanntem Jahr")  
+![Die Bärenjäger des Ääzebär aus unkanntem Jahr]({{ site.baseurl }}/assets/images/2002-02-01/annopief_1.jpg "Die Bärenjäger des Ääzebär aus unkanntem Jahr")  
 Die Bärenjäger des Ääzebär aus unkanntem Jahr
 {: .text-center}
 
-![Die Bärenjäger des Ääzebär aus unkanntem Jahr]({{ '/assets/images/2002-02-01/annopief_2.jpg' | relative_url }} "Die Bärenjäger des Ääzebär aus unkanntem Jahr")  
+![Die Bärenjäger des Ääzebär aus unkanntem Jahr]({{ site.baseurl }}/assets/images/2002-02-01/annopief_2.jpg "Die Bärenjäger des Ääzebär aus unkanntem Jahr")  
 Die Bärenjäger des Ääzebär aus unkanntem Jahr
 {: .text-center}

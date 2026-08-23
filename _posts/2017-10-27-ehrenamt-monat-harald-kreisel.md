@@ -20,13 +20,13 @@ header:
 
 Im November ehrt die Stadt Lohmar Harald Kreisel und zeichnet ihn für seine Leistungen und Verdienste im Lohmarer Vereinsleben mit dem „Ehrenamt des Monats“ aus.
 
-Die Karnevalsgesellschaft „Ahl Jecke“ e.V. von 1946 ist als feste Größe in der fünften Jahreszeit Lohmars nicht mehr wegzudenken. Harald Kreisel trat dem Verein 1985 bei. In mehr als dreißig Jahren hat er dessen Wirken mit geprägt und in wechselnden Ämtern innerhalb des Vorstandes ehrenamtlich zum Erfolg verschiedener Festveranstaltungen in Lohmar beigetragen.
+Die Karnevalsgesellschaft „Ahl Jecke“ e.V. von 1946 ist als feste Größe in der fünften Jahreszeit Lohmars nicht mehr wegzudenken. Harald Kreisel trat dem Verein 1985 bei. In mehr als dreißig Jahren hat er dessen Wirken mitgeprägt und in wechselnden Ämtern innerhalb des Vorstandes ehrenamtlich zum Erfolg verschiedener Festveranstaltungen in Lohmar beigetragen.
 
 Sich freiwillig zu engagieren, ist dem Beamten im Ruhestand nicht fremd: Bereits in seiner Jugend hat er ehrenamtliche Aufgaben übernommen, etwa als Messdiener oder Schülerlotse.
 
 Angespornt, im Straßenkarneval aktiv zu werden, hat ihn sein Schwiegervater „Jo“ van der Viefen – selbst als prominente Persönlichkeit im Lohmarer Karneval bekannt - der mit anderen „Ahl Jecke“ den Brauch des Ääzebärs wiederbelebt hat. Harald Kreisel ist dort selbst seit 1985 dabei und führt diese Tradition heute als Schriftführer des „Ääzebärs e.V.“ fort.
 
-Der 60-jährige hat ehrenamtlich verschiedene Positionen im Vorstand der „Ahl Jecke“ ausgefüllt. Zuletzt als erster Vorsitzender, den er in diesem Jahr aus gesundheitlichen Gründen, aber auch um der jüngeren Generation Platz zu machen, abgab.
+Der 60-Jährige hat ehrenamtlich verschiedene Positionen im Vorstand der „Ahl Jecke“ ausgefüllt. Zuletzt als erster Vorsitzender, den er in diesem Jahr aus gesundheitlichen Gründen, aber auch um der jüngeren Generation Platz zu machen, abgab.
 
 Es gab viel zu planen und zu organisieren, damit die Feste und Aktivitäten rund um Karneval gelangen. Insbesondere das Festzelt auf dem Frouardplatz verlangt von allen Mitgliedern großen persönlichen Einsatz. Dabei arbeiten alle Mitglieder des Vereins Hand in Hand – und das ist durchaus wörtlich zu verstehen, wenn im Festzelt das karnevalistische Treiben beginnt und der Ausschank bewältigt werden muss. „Besonders die Ehefrauen der Mitglieder sind sehr engagiert dabei“, merkt Harald Kreisel begeistert und auch dankend an.
 

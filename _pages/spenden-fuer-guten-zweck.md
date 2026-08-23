@@ -42,7 +42,7 @@ Als Dankeschön erhalten Sie unser traditionelles „Ääzebär-Knöllchen“. D
 
 Sie dürfen gerne per Banküberweisung für den wohltätigen Zweck spenden. 
 
-Eine Spendenbestätigung stellen wir gerne aus, wenn sie sich an den Vorstand wenden und die notwendigen Daten hinterlassen. Dies geht zum Beispiel per Email [{{ site.email }}](mailto:{{ site.email }})  
+Eine Spendenbestätigung stellen wir gerne aus, wenn Sie sich an den Vorstand wenden und die notwendigen Daten hinterlassen. Dies geht zum Beispiel per E-Mail an [{{ site.email }}](mailto:{{ site.email }}).  
 
 Bankverbindung:
 
@@ -70,14 +70,14 @@ function copyBankdatenToClipboard(btn, val) {
 </script>
 
 
-## Spenden per Paypal Spendenpool - im Aufbau
+## Spenden per PayPal-Spendenpool – im Aufbau
 
-Wir werden jährlich einen neuen Spendenpool bei PayPal einrichten. Dort können sie ebenfalls spenden.
+Wir werden jährlich einen neuen Spendenpool bei PayPal einrichten. Dort können Sie ebenfalls spenden.
 
 
 **<i class="fas fa-tools"></i> Die Links zum Spendenpool sind Dummies <i class="fas fa-tools"></i>**  
-Link und QR Code zeigen auf https://aeaezebaer.de
+Link und QR-Code zeigen auf https://aeaezebaer.de
 {: .notice--danger .text-center}
 
-![QR Code für den PayPal Spendenpool]({{ '/assets/images/qr-codes/https_aeaezebaer_de.png' | relative_url }} "QR Code für den PayPal Spendenpool"){:width="30%"}  
+![QR Code für den PayPal Spendenpool]({{ site.baseurl }}/assets/images/qr-codes/https_aeaezebaer_de.png "QR Code für den PayPal Spendenpool"){:width="30%"}  
 [PayPal Spendenpool](https://aeaezebaer.de)  

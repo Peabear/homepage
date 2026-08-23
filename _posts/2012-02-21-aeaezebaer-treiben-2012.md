@@ -12,7 +12,7 @@ header:
 ---
 
 
-Diesmal gab es ein Ergebnis von 1.499,36 EUR
+Diesmal gab es ein Ergebnis von 1.499,36 EUR.
 
 Unsere Gruppe war diesmal etwas größer, da das Lohmarer Prinzenpaar sich nicht davon abhalten ließ, uns den halben Tag zu begleiten.
 

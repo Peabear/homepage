@@ -13,24 +13,24 @@ header:
 
 
 Wir trafen uns Dienstag um 10 Uhr, dann ging die Tour durch Lohmar los.
-Wir hatten genau so ein Glück mit dem Wetter wie am Rosenmontag.
+Wir hatten genauso ein Glück mit dem Wetter wie am Rosenmontag.
 
-Erfreulicherweise konnten wir diesmal neben den Geschäften auch wieder den einen oder anderen auf der Straße erwischen und mit einem Knöllchen beglücken. Vielen Dank für alle Spenden - und daß Ihr nicht die Straßenseite gewechselt habt ;-)
+Erfreulicherweise konnten wir diesmal neben den Geschäften auch wieder den einen oder anderen auf der Straße erwischen und mit einem Knöllchen beglücken. Vielen Dank für alle Spenden - und dass Ihr nicht die Straßenseite gewechselt habt ;-)
 
-Im Bär war diesmal Patrick Marunde.
+Im Bären steckte diesmal Patrick Marunde.
 
 Das Ergebnis der öffentlichen Auszählung gegen 19 Uhr war dann 1.729,62 EUR.
 
 Hier ein paar Fotos. (nm)
 
-![Gruppenfoto des Ääzebärtreiben 2023]({{ '/assets/images/2023-02-21/IMG_4484.jpg' | relative_url }} "Gruppenfoto des Ääzebärtreiben 2023")  
+![Gruppenfoto des Ääzebärtreiben 2023]({{ site.baseurl }}/assets/images/2023-02-21/IMG_4484.jpg "Gruppenfoto des Ääzebärtreiben 2023")  
 Gruppenfoto des Ääzebärtreiben 2023
 {: .text-center}
 
-![Bürgermeisterin Claudia Wieja tanzt mit dem Ääzebär]({{ '/assets/images/2023-02-21/IMG_4524.jpg' | relative_url }} "Bürgermeisterin Claudia Wieja tanzt mit dem Ääzebär")  
+![Bürgermeisterin Claudia Wieja tanzt mit dem Ääzebär]({{ site.baseurl }}/assets/images/2023-02-21/IMG_4524.jpg "Bürgermeisterin Claudia Wieja tanzt mit dem Ääzebär")  
 Bürgermeisterin Claudia Wieja tanzt mit dem Ääzebär
 {: .text-center}
 
-![Zählen der Spendgelder]({{ '/assets/images/2023-02-21/IMG_4636.jpg' | relative_url }} "Zählen der Spendgelder")  
-Zählen der Spendgelder
+![Zählen der Spendengelder]({{ site.baseurl }}/assets/images/2023-02-21/IMG_4636.jpg "Zählen der Spendengelder")  
+Zählen der Spendengelder
 {: .text-center}
