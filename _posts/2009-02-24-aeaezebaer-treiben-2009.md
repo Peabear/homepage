@@ -21,6 +21,6 @@ header:
 Das Ääzebär-Treiben 2009 erbrachte einen Erlös von 1.362 EUR für das Rote Kreuz.
 
 
-![Pressebericht „Abschied vom Fasteleer mit Ääzebär“]({{ '/assets/images/2009-02-24/baer2009.jpg' | relative_url }} "Pressebericht „Abschied vom Fasteleer mit Ääzebär“")  
+![Pressebericht „Abschied vom Fasteleer mit Ääzebär“]({{ site.baseurl }}/assets/images/2009-02-24/baer2009.jpg "Pressebericht „Abschied vom Fasteleer mit Ääzebär“")  
 Pressebericht „Abschied vom Fasteleer mit Ääzebär“
 {: .text-center}

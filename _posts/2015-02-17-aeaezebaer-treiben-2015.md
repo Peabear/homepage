@@ -14,23 +14,23 @@ header:
 
 Einen stolzen Betrag von 1.741,56 EUR für den guten Zweck sammelte der Ääzebär gestern in Lohmar.
 
-Im Bär versteckt war diesmal Bernd Köppen, als Treiber waren Siggi Beilschmidt, Peter Drossard, Olaf Giese, Max Dietrich Kirschbaum mit der Drehorgel, Gundi und Norbert Kreisel, Beatrix Marunde, Wilfried Meng, Jutta und Norbert Muskatewitz und Christa Stricker unterwegs.
+Im Bären versteckt war diesmal Bernd Köppen. Als Treiber waren unterwegs: Siggi Beilschmidt, Peter Drossard, Olaf Giese, Max Dietrich Kirschbaum mit der Drehorgel, Gundi und Norbert Kreisel, Beatrix Marunde, Wilfried Meng, Jutta und Norbert Muskatewitz und Christa Stricker.
 
-Laut einer mitlaufenden App legte dabei jeder 11683 Schritte zurück.
+Laut einer mitlaufenden App legte dabei jeder 11.683 Schritte zurück.
 
 Hier ein paar Fotos vom „Bär op Jöck“...
 
 
-![Ein Passant spendet auf dem Parkplatz]({{ '/assets/images/2015-02-17/IMG_0340.jpg' | relative_url }} "Ein Passant spendet auf dem Parkplatz")  
+![Ein Passant spendet auf dem Parkplatz]({{ site.baseurl }}/assets/images/2015-02-17/IMG_0340.jpg "Ein Passant spendet auf dem Parkplatz")  
 Ein Passant spendet auf dem Parkplatz
 {: .text-center}
 
 
-![Der Ääzebär im Edeka]({{ '/assets/images/2015-02-17/IMG_0343.jpg' | relative_url }} "Der Ääzebär im Edeka")  
+![Der Ääzebär im Edeka]({{ site.baseurl }}/assets/images/2015-02-17/IMG_0343.jpg "Der Ääzebär im Edeka")  
 Der Ääzebär im Edeka
 {: .text-center}
 
-![Der Ääzebär bei „Lieblingsstücke“]({{ '/assets/images/2015-02-17/P1210524.jpg' | relative_url }} "Der Ääzebär bei „Lieblingsstücke“")  
+![Der Ääzebär bei „Lieblingsstücke“]({{ site.baseurl }}/assets/images/2015-02-17/P1210524.jpg "Der Ääzebär bei „Lieblingsstücke“")  
 Der Ääzebär bei „Lieblingsstücke“
 {: .text-center}
 

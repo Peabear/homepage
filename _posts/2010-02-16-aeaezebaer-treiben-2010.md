@@ -12,17 +12,17 @@ header:
 ---
 
 
-Der Ääzebär hat diesmal 1.474,17 EUR für den guten Zweck gesammelt. Das ganze konnte nur gut gehen, weil wir einen Plan hatten...
+Der Ääzebär hat diesmal 1.474,17 EUR für den guten Zweck gesammelt. Das Ganze konnte nur gut gehen, weil wir einen Plan hatten...
 
 
-![Das ganze konnte nur gut gehen, weil wir einen Plan hatten...]({{ '/assets/images/2010-02-16/2010_plan.jpg' | relative_url }} "Das ganze konnte nur gut gehen, weil wir einen Plan hatten...")  
-Das ganze konnte nur gut gehen, weil wir einen Plan hatten...
+![Der Plan]({{ site.baseurl }}/assets/images/2010-02-16/2010_plan.jpg "Der Plan")  
+Der Plan
 {: .text-center}
 
-![Ääzebär-Treiben 2010 - bei der Firma EATON]({{ '/assets/images/2010-02-16/2010_eaton_small.jpg' | relative_url }} "Ääzebär-Treiben 2010 - bei der Firma EATON")  
+![Ääzebär-Treiben 2010 - bei der Firma EATON]({{ site.baseurl }}/assets/images/2010-02-16/2010_eaton_small.jpg "Ääzebär-Treiben 2010 - bei der Firma EATON")  
 Ääzebär-Treiben 2010 - bei der Firma EATON
 {: .text-center}
 
-![Ääzebär-Treiben 2002 (aus: Rhein-Sieg-Rundschau vom 17.02.2010]({{ '/assets/images/2010-02-16/2010_rundschau.jpg' | relative_url }} "Ääzebär-Treiben 2002 (aus: Rhein-Sieg-Rundschau vom 17.02.2010")  
+![Ääzebär-Treiben 2002 (aus: Rhein-Sieg-Rundschau vom 17.02.2010)]({{ site.baseurl }}/assets/images/2010-02-16/2010_rundschau.jpg "Ääzebär-Treiben 2002 (aus: Rhein-Sieg-Rundschau vom 17.02.2010"))  
 Ääzebär-Treiben 2002 (aus: Rhein-Sieg-Rundschau vom 17.02.2010)
 {: .text-center}
