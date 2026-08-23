@@ -17,6 +17,7 @@ bear: "Peter Drossard"
 Der Ääzebär hat diesmal 1.474,17 EUR für den guten Zweck gesammelt. Das Ganze konnte nur gut gehen, weil wir einen Plan hatten...
 
 
+
 ![Der Plan]({{ site.baseurl }}/assets/images/2010-02-16/2010_plan.jpg "Der Plan")  
 Der Plan
 {: .text-center}
