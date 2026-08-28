@@ -9,6 +9,8 @@ header:
   teaser: /assets/images/2025-03-04/gruppenfoto.jpg
   overlay_image: /assets/images/2025-03-04/gruppenfoto.jpg
   overlay_filter: 0.5 # Darkens the image (0.1 to 1.0) to keep the text readable
+income: 2500.49
+bear: "Patrick Marunde"
 ---
 
 
