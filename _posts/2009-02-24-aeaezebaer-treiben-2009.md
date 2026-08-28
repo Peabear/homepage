@@ -9,6 +9,8 @@ header:
   teaser: /assets/images/2009-02-24/teaser.png
   overlay_image: /assets/images/2009-02-24/teaser.png
   overlay_filter: 0.5 # Darkens the image (0.1 to 1.0) to keep the text readable
+income: 1362
+bear: "Olaf Giese"
 ---
 
 <style>

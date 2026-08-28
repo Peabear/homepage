@@ -9,6 +9,8 @@ header:
   teaser: /assets/images/2012-02-21/P1030921-W800.jpg
   overlay_image: /assets/images/2012-02-21/overlay.png
   overlay_filter: 0.5 # Darkens the image (0.1 to 1.0) to keep the text readable
+income: 1499.36
+bear: "Peter Drossard"
 ---
 
 
