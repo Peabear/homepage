@@ -9,6 +9,8 @@ header:
   teaser: /assets/images/2015-02-17/IMG_0339.jpg
   overlay_image: /assets/images/2015-02-17/IMG_0339.jpg
   overlay_filter: 0.5 # Darkens the image (0.1 to 1.0) to keep the text readable
+income: 1741.56
+bear: "Bernd Köppen"
 ---
 
 

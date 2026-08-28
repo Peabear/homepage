@@ -6,6 +6,7 @@ categories:
 tags:
 header:
   teaser: /assets/images/2017-02-14/170214_bsl10.jpg
+income: 100
 ---
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
