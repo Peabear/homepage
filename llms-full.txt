@@ -5,7 +5,7 @@ allowed_pages:
   - "Spenden für den guten Zweck"
   - "Über uns"
 ---
-# {{ site.title | unescape_html }} – {{ site.subtitle | unescape_html }} (Full-Text Repository)
+# {{ site.url }}{{ site.baseurl }}: {{ site.title | unescape_html }}, {{ site.subtitle | unescape_html }} (Full-Text Repository)
 
 > {{ site.description | unescape_html }}
 
