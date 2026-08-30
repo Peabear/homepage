@@ -9,10 +9,12 @@ header:
   teaser: /assets/images/2012-02-21/P1030921-W800.jpg
   overlay_image: /assets/images/2012-02-21/overlay.png
   overlay_filter: 0.5 # Darkens the image (0.1 to 1.0) to keep the text readable
+income: 1499.36
+bear: "Peter Drossard"
 ---
 
 
-Diesmal gab es ein Ergebnis von 1.499,36 EUR
+Diesmal gab es ein Ergebnis von 1.499,36 EUR.
 
 Unsere Gruppe war diesmal etwas größer, da das Lohmarer Prinzenpaar sich nicht davon abhalten ließ, uns den halben Tag zu begleiten.
 

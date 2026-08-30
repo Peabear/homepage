@@ -37,18 +37,21 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3'
+          ruby-version: '.ruby-version'
           bundler-cache: true # Caches gems to speed up future builds
 
       - name: Setup Pages
         uses: actions/configure-pages@v6
+
+      - name: Calculate income
+        run: bundle exec ruby exclude/calculate-income.rb
 
       - name: Build with Jekyll
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
 
-      - name: validate EUR
+      - name: Validate EUR
         run: bundle exec ruby exclude/validate-eur.rb
 
       - name: Validate HTML

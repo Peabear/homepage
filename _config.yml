@@ -1,6 +1,6 @@
-title: "Ääzebär"
-subtitle: "TODO SUBTITLE"
-description: "TODO DESCRIPTION"
+title: "Ääzebär e.V. Lohmar"
+subtitle: "Fastelovend mit Hätz un Haltung &ndash; Brauchtum erleben und Jutes tun."
+description: "Der Ääzebär e.V. Lohmar ist ein gemeinnütziger Verein. Wir sammeln Spenden und unterstützen verschiedene lokale, wohltätige sowie gemeinnützige Initiativen direkt hier in Lohmar."
 og_image: /assets/images/ab-logo_w.jpg # image used when sharing links. Can be a logo or portait. ATTENTION: also check og_image when updating!
 
 url: "https://peabear.github.io" # ATTENTION: Also check social-links when changing!
@@ -18,7 +18,7 @@ encoding: utf-8 # no official jekyll standard, but: might help and will not brea
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: page:num/
 locale: de-DE # important: - instead of _
 date_format: "%d.%m.%Y" # german date format - using numbers for months since german names do not work
 timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -69,17 +69,17 @@ defaults:
       author_profile: true
 
 # site properties
-email: peabear@web.de # ATTENTION: Also check mail adress in author-info when changing!
+email: vorstand@aeaezebaer.de # ATTENTION: Also check mail adress in author-info when changing!
 
 author:
   name: "Ääzebär e.V. Lohmar"
-  bio    : "TODO Bio"
+  #bio    : "TODO Bio"
   avatar: /assets/images/ab-logo_w.jpg # Path to photo. ATTENTION: also check og_image when updating!
   location: "Lohmar, Germany"
   links:
     - label: Email
       icon: "fas fa-square-envelope"
-      url: "mailto:peabear@web.de" # ATTENTION: Also check mail adress in site properties when changing!
+      url: "mailto:vorstand@aeaezebaer.de" # ATTENTION: Also check mail adress in site properties when changing!
     - label: Facebook
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/Aeaezebaer/" # ATTENTION: Also check social-links when changing!
@@ -88,4 +88,4 @@ atom_feed:
   hide: true # not rendered anyway as long as search is active. So I put RSS feed to footer explicitly
 
 footer:
-  extra_footer_content: '© 2008 - 2026 Ääzebär e.V. Lohmar &#124; <a href="/homepage/feed.xml"><i class="fas fa-square-rss" style="color: #ee802f;"></i> RSS Feed</a> &#124; <a href="/homepage/legal/"><i class="fas fa-scale-balanced"></i> Impressum und Datenschutzerklärung</a>'
+  extra_footer_content: '© 2008 - 2026 Ääzebär e.V. Lohmar &#124; <a href="/homepage/feed.xml"><i class="fas fa-square-rss" style="color: #ee802f;"></i> RSS Feed</a> &#124; <a href="/legal/"><i class="fas fa-scale-balanced"></i> Impressum und Datenschutzerklärung</a>'
