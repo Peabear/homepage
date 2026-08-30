@@ -10,7 +10,6 @@ header:
   overlay_image: /assets/images/2026-02-17/aeaezebaer_emitec.jpg
   overlay_filter: 0.5 # Darkens the image (0.1 to 1.0) to keep the text readable
 income: 2224.01
-bear: "Patrick Marunde"
 ---
 
 

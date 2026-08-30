@@ -1,6 +1,6 @@
 ---
 title: "Ääzebär&shy;treiben 2018"
-excerpt: "13 Karnevalisten machten sich auf den Weg und sammelten 1.416,70 EUR an Spendengeldern."
+excerpt: "Die Bärenjäger machten sich wieder auf den Weg und sammelten 1.416,70 EUR an Spendengeldern."
 categories:
   - aktuelles
 tags:
@@ -10,7 +10,6 @@ header:
   overlay_image: /assets/images/2018-02-13/overlay.png
   overlay_filter: 0.5 # Darkens the image (0.1 to 1.0) to keep the text readable
 income: 1416.70
-bear: "Bernd Köppen"
 ---
 <style>
   .page__hero--overlay {
