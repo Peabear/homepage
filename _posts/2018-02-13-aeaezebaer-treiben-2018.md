@@ -42,3 +42,11 @@ Erschöpfte Vereinsmitglieder
 ![Gruppenfoto der Bärentreiber des Ääzebär]({{ site.baseurl }}/assets/images/2018-02-13/IMG_5995.jpg "Gruppenfoto der Bärentreiber des Ääzebär")  
 Gruppenfoto der Bärentreiber des Ääzebär
 {: .text-center}
+
+![Pressebericht]({{ site.baseurl }}/assets/images/2018-02-13/presse.jpg "Pressebericht")  
+Pressebericht
+{: .text-center}
+
+![Rotes Kreuz Lohmar bedankt sich beim Ääzebär]({{ site.baseurl }}/assets/images/2018-02-13/rotes_kreuz.jpg "Rotes Kreuz Lohmar bedankt sich beim Ääzebär")  
+Rotes Kreuz Lohmar bedankt sich beim Ääzebär
+{: .text-center}
