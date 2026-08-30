@@ -4,7 +4,7 @@ description: "Der Ääzebär e.V. Lohmar ist ein gemeinnütziger Verein. Wir sam
 og_image: /assets/images/ab-logo_w.jpg # image used when sharing links. Can be a logo or portait. ATTENTION: also check og_image when updating!
 
 url: "https://peabear.github.io" # ATTENTION: Also check social-links when changing!
-baseurl: "/homepage" # ATTENTION: check links within this config (e.g. in footer) when changing!
+baseurl: "/homepage" # ATTENTION: check links within this config (e.g. in footer and social-links) when changing!
 
 minimal_mistakes_skin: "aqua" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
@@ -16,7 +16,7 @@ encoding: utf-8 # no official jekyll standard, but: might help and will not brea
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:categories/:title/ # ATTENTION: Adapt links in llms.txt and llms-full.txt when changing 
 paginate: 5 # amount of posts to show
 paginate_path: page:num/
 locale: de-DE # important: - instead of _
@@ -27,9 +27,23 @@ plugins:
   - jekyll-feed # Creates an Atom/RSS feed (usually at /feed.xml) for subscribers
   - jekyll-include-cache # Speeds up the build process by caching repetitive includes
   - jekyll-last-modified-at # Automatically syncs create and update timestamps with your Git commit history; important for automatic sitemap and feed generation
+  - jekyll-llms     # Eanbles md-sidecars and HTML header links
   - jekyll-paginate # Enables pagination for long lists of blog posts
+  - jekyll-seo-tag  # Automatically adds metadata, Open Graph tags, and JSON-LD structured data for Google and LLMs
   - jekyll-sitemap # Automatically generates a sitemap.xml for search engines
   - jemoji # Supports GitHub-style emojis like :books: or :rocket:
+
+llms:
+  markdown: true    # creates .md-sidecars
+  llms_txt: false   # deactivated - llms.txt is provided differently
+  include:
+    - posts
+    - pages
+  exclude:
+    - /
+    - /404.html
+    - /legal/
+    - /tags/
 
 include:
   - _pages
@@ -83,6 +97,12 @@ author:
     - label: Facebook
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/Aeaezebaer/" # ATTENTION: Also check social-links when changing!
+
+social:
+  name: "Ääzebär e.V. Lohmar"
+  links:
+  - "https://www.facebook.com/Aeaezebaer/"  # ATTENTION: Also check author_links when changing!
+  - "https://peabear.github.io/homepage"  # ATTENTION: Also check url and baseurl when changing!
 
 atom_feed: 
   hide: true # not rendered anyway as long as search is active. So I put RSS feed to footer explicitly

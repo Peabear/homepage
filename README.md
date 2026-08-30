@@ -2,6 +2,7 @@
 - [📖 Contents and overview](#-contents-and-overview)
 - [🎨 Styleguide](#-styleguide)
 - [🚀 Build and Deployment](#-build-and-deployment)
+- [🌐 Web Access, SEO, and LLM Optimization](#-web-access-seo-and-llm-optimization)
 - [🔗 Useful Links](#-useful-links)
 
 
@@ -30,19 +31,45 @@
   - It is deployed on every push to the `main` branch (production)
   - For testing, it can be deployed manually from feature branches  
     Note: the branch must be explicitly mentioned in `github-pages` environment
+  - The incoming donations are summed an stored in configfile [peabear.yml](_data/peabear.yml) by [calculate-income.rb](exclude/calculate-income.rb)
+  - The site-parameters in the generated `llms-full.txt` are substituted by [postprocess_and_validate_llms_full.rb](exclude/postprocess_and_validate_llms_full.rb). Additionally, it is ensured that no site-parameter is contained in the file
+  - The published files and directories are validated using the Ruby script [validate-published-files.rb](exclude/validate-published-files.rb)
   - Markdown files are validated to avoid `€` and the usage of `Euro` as currency using the Ruby script [validate-eur.rb](exclude/validate-eur.rb)
   - The generated HTML pages are validated by `html-proofer` using the Ruby script [validate-html.rb](exclude/validate-html.rb)   
 - Local development:
+  - Calculate donations: `bundle exec ruby exclude/calculate-income.rb`
   - Build pages and start the server `bundle exec jekyll serve --livereload`
+  - Postpocess `llms-full.txt`: `bundle exec ruby exclude/postprocess_and_validate_llms_full.rb`
+  - Validate published files in `_site`: `bundle exec ruby exclude/validate-published-files.rb`
   - Validate EUR in provided markdown files: `bundle exec ruby exclude/validate-eur.rb`
   - Validate HTML: `bundle exec ruby exclude/validate-html.rb --swap-localhost`
+  
 - Dependencies of `Ruby` and `Github Actions`are managed with Dependabot **[.github/dependabot.yml](.github/dependabot.yml)**
+
+
+## 🌐 Web Access, SEO, and LLM Optimization
+- The website is available at:
+  - [https://peabear.github.io/homepage//](https://peabear.github.io/homepage/)
+- Important links:
+  - [llms.txt](https://peabear.github.io/homepage/llms.txt) 
+  - [llms-full.txt](https://peabear.github.io/homepage/llms-full.txt) 
+  - [robots.txt](https://peabear.github.io/homepage/robots.txt)
+  - [feed.xml](https://peabear.github.io/homepage/feed.xml)
+  - [sitemap.xml](https://peabear.github.io/homepage/sitemap.xml)
+- SEO, and LLM Optimization:
+  - The plugin `jekyll-llm` builds the Markdown sidecars and links the HTML pages to them
+  - [llms.txt](llms.txt) and [llms-full.txt](llms-full.txt) are built explicitly without plugin; [llms.txt](llms.txt) links to both the HTML pages and the Markdown sidecars
+  - [head/custom.html](_includes/head/custom.html) extracts the `tags` from posts and adds them as `keywords` to the HTML
+  - The plugin `jekyll-seo-tag` adds metadata, Open Graph tags, and JSON-LD structured data
+  - The RSS Feed is provided by `jekyll-feed`
+  - The sitemap is provided by `jekyll-sitemap`
 
 
 ## 🔗 Useful Links
 - [Create QR codes with goqr.me - free and no sign-up](https://goqr.me/ create QR codes)
 - [Font AWESOME - free-collection](https://fontawesome.com/search?ic=free-collection)
 - [Kölsch Wörterbuch der Kölsch Akademie](https://koelsch-akademie.de/online-woerterbuch-1?t)
+- Find Ruby dependencies on [rubygems.org](https://rubygems.org/)
 - Useful resources related to Minimal Mistakes:
   - [Minimal Mistakes GitHub](https://github.com/mmistakes/minimal-mistakes)
   - [Minimal Mistakes Documentation](https://mmistakes.github.io/minimal-mistakes/)
