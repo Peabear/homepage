@@ -9,7 +9,6 @@ header:
   teaser: /assets/images/2002-02-12/baer2002_02.jpg
   overlay_image: /assets/images/2002-02-12/baer2002_02.jpg
   overlay_filter: 0.5 # Darkens the image (0.1 to 1.0) to keep the text readable
-bear: "Gertrud Lennartz"
 ---
 
 

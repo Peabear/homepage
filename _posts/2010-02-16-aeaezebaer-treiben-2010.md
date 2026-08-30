@@ -10,7 +10,6 @@ header:
   overlay_image: /assets/images/2010-02-16/overlay.png
   overlay_filter: 0.5 # Darkens the image (0.1 to 1.0) to keep the text readable
 income: 1474.17
-bear: "Peter Drossard"
 ---
 
 
