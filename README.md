@@ -38,8 +38,8 @@
   - Validate HTML: `bundle exec ruby exclude/validate-html.rb --swap-localhost`
 - Dependencies of `Ruby` and `Github Actions`are managed with Dependabot **[.github/dependabot.yml](.github/dependabot.yml)**
 
-## 🔗 Useful Links
 
+## 🔗 Useful Links
 - [Create QR codes with goqr.me - free and no sign-up](https://goqr.me/ create QR codes)
 - [Font AWESOME - free-collection](https://fontawesome.com/search?ic=free-collection)
 - [Kölsch Wörterbuch der Kölsch Akademie](https://koelsch-akademie.de/online-woerterbuch-1?t)

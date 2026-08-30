@@ -8,7 +8,7 @@ toc_sticky: true
 toc_icon: "fa-solid fa-paw"
 ---
 
-Der Ääzebär e.V. Lohmar ist ein gemeinnütziger Verein, der jeden Veilchendienstag das traditionelle Ääzebär-Treiben organisiert. Unser Ziel ist es, Gutes zu tun: Wir sammeln Spenden für das örtliche Rote Kreuz und unterstützen zusätzlich verschiedene lokale, wohltätige sowie gemeinnützige Initiativen direkt in Lohmar.
+Der Ääzebär e.V. Lohmar ist ein gemeinnütziger Verein, der jeden Veilchendienstag das traditionelle Ääzebärtreiben organisiert. Unser Ziel ist es, Gutes zu tun: Wir sammeln Spenden für das örtliche Rote Kreuz und unterstützen zusätzlich verschiedene lokale, wohltätige sowie gemeinnützige Initiativen direkt in Lohmar.
 
 Seit 2007 sind auf diese Weise bereits über {{ site.data.peabear.income }} EUR zusammengekommen. Traditionell werden die gesammelten Spenden noch am selben Abend öffentlich ausgezählt und direkt übergeben.
 
@@ -57,8 +57,8 @@ img[alt="Buchcover von Lohmarer Mundart in Reim und Prosa"] {
   </a>
 </div>
 
-## Belebung des Ääzebär-Treibens im Lohmarer Karneval
-Im Jahr 1976, als die KG „Ahl Jecke“ mit Balthasar („Bältes“) und Anneliese Krieger das Prinzenpaar stellte, kam dem Ur-Karnevalisten Horst-Dieter Höndgesberg (genannt „Flönz“) die Idee, das Ääzebär-Treiben in Lohmar wiederzubeleben. Am 2. März 1976 zogen Horst-Dieter Höndgesberg im Bärenfell und weitere Begleiter los, um den Brauch mit „Ääzebär-Knöllchen“ zu reaktivieren, womit 84,50 DM eingenommen wurden. In den Folgejahren unterstützte Bernd Palm das Brauchtum, und weitere Treiber schlossen sich an.
+## Belebung des Ääzebärtreibens im Lohmarer Karneval
+Im Jahr 1976, als die KG „Ahl Jecke“ mit Balthasar („Bältes“) und Anneliese Krieger das Prinzenpaar stellte, kam dem Ur-Karnevalisten Horst-Dieter Höndgesberg (genannt „Flönz“) die Idee, das Ääzebärtreiben in Lohmar wiederzubeleben. Am 2. März 1976 zogen Horst-Dieter Höndgesberg im Bärenfell und weitere Begleiter los, um den Brauch mit „Ääzebär-Knöllchen“ zu reaktivieren, womit 84,50 DM eingenommen wurden. In den Folgejahren unterstützte Bernd Palm das Brauchtum, und weitere Treiber schlossen sich an.
 
 
 ## Gründung des „Ääzebär“ e.V. Lohmar
@@ -76,8 +76,8 @@ des Vereins **„Ääzebär“ e.V.**, Lohmar, genehmigt durch die Gründungsver
 3. Geschäftsjahr ist das Kalenderjahr.
 
 ### § 2 Vereinszweck
-1. Sinn und Zweck des Vereins ist die Durchführung des seit 1976 stattfindenden, traditionellen „Ääzebär“-Treibens am Karnevalsdienstag in Lohmar, dessen Einnahmen in voller Höhe einem gemeinnützigen Zweck zugeführt werden.  
-Der Empfänger/Begünstigte der Einnahmen kann nur durch mehrheitlichen Beschluss der Mitglieder auf einer ordnungsgemäß einberufenen Mitgliederversammlung geändert werden. Die Einnahmen werden unmittelbar nach dem „Ääzebär“-Treiben am gleichen Abend (Karnevalsdienstag) in Anwesenheit eines Vertreters des Begünstigten ausgezählt und an diesen übergeben.
+1. Sinn und Zweck des Vereins ist die Durchführung des seit 1976 stattfindenden, traditionellen Ääzebärtreibens am Karnevalsdienstag in Lohmar, dessen Einnahmen in voller Höhe einem gemeinnützigen Zweck zugeführt werden.  
+Der Empfänger/Begünstigte der Einnahmen kann nur durch mehrheitlichen Beschluss der Mitglieder auf einer ordnungsgemäß einberufenen Mitgliederversammlung geändert werden. Die Einnahmen werden unmittelbar nach dem Ääzebärtreiben am gleichen Abend (Karnevalsdienstag) in Anwesenheit eines Vertreters des Begünstigten ausgezählt und an diesen übergeben.
 2. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung. Er ist in das Vereinsregister beim Amtsgericht Siegburg eingetragen.
 
 ### § 3 Selbstlosigkeit
@@ -105,7 +105,7 @@ Der Vorstand besteht aus dem ersten und zweiten Vorsitzenden sowie dem Kassenwar
 
 ### § 7 Geschäftsführender Vorstand
 1. Die Mitgliederversammlung beschließt, ob und in welcher Anzahl weitere geschäftsführende, nicht vertretungsberechtigte Vorstandsmitglieder gewählt werden.
-2. Der Vorstand ist für alle Vereinsangelegenheiten zuständig, die nicht durch die Satzung ausdrücklich der Mitgliederversammlung zugewiesen sind. Er ist insbesondere für die ordnungsgemäße und vollständige Abführung der beim „Ääzebär-Treibens“ erzielten Einnahmen an den Begünstigten verantwortlich.
+2. Der Vorstand ist für alle Vereinsangelegenheiten zuständig, die nicht durch die Satzung ausdrücklich der Mitgliederversammlung zugewiesen sind. Er ist insbesondere für die ordnungsgemäße und vollständige Abführung der beim Ääzebärtreibens erzielten Einnahmen an den Begünstigten verantwortlich.
 3. Er fasst Beschlüsse mit einfacher Mehrheit; hierüber werden schriftliche Protokolle angefertigt. Der Vorstand ist beschlussfähig, wenn mindestens zwei Vorstandsmitglieder anwesend sind, davon mindestens eines der vertretungsberechtigten Vorstandsmitglieder.  
 4. Der Vorstand wird für die Dauer von 2 Jahren gewählt und bleibt bis zur Wahl eines neuen Vorstandes im Amt.  
 5. Der Vorstand lädt schriftlich (auch per E-Mail) zwei Wochen im Voraus mindestens einmal im Jahr zur Mitgliederversammlung ein, um die Vereinsgeschäfte ordnungsgemäß zu regeln.
@@ -114,7 +114,7 @@ Der Vorstand besteht aus dem ersten und zweiten Vorsitzenden sowie dem Kassenwar
 2. Ein Mitglied das gegen die Belange des Vereins i.S. von § 2 der Satzung verstößt, kann mit Zwei-Drittel-Mehrheit der anwesenden Mitglieder aus dem Verein ausgeschlossen werden.
 
 ### § 9 Auflösung / Wegfall des steuerbegünstigten Zwecks
-Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt eventuell vorhandenes Vermögen des Vereins an eine gemeinnützige Einrichtung in Lohmar mit dem Ziel, die Tradition des „Ääzebär-Treiben" in Lohmar fortzuführen.
+Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt eventuell vorhandenes Vermögen des Vereins an eine gemeinnützige Einrichtung in Lohmar mit dem Ziel, die Tradition des Ääzebärtreiben in Lohmar fortzuführen.
 
 Lohmar, 09. Juli 2008
 

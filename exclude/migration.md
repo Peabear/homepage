@@ -37,7 +37,7 @@ Hinweis: Ordner mit weiteren Bildern kannen in [.gitignore (dieser Link klappt n
 | Mitgliederversammlung am 1. November (05.09.2019) | https://peabear.github.io/homepage/aktuelles/einladung-mitgliederversammlung-2019/ (05.09.2019) |  | 
 | Das war das Ääzebärtreiben 2019 (06.03.2019) | https://peabear.github.io/homepage/aktuelles/aeaezebaer-treiben-2019/ (05.03.2019) | Foto-Gallerie vorhanden | 
 | Ääzebärtreiben 2019 - noch 3 Woche ... (11.02.2019) | https://peabear.github.io/homepage/aktuelles/aeaezebae-treiben-ankuendigung-2019/ (11.02.2019) |  | 
-| Nachtrag: Presseberichte zum Ääzebäer-Treiben 2017 und 2018 (13.11.2018) | - | TODO: Noch integrieren | 
+| Nachtrag: Presseberichte zum Ääzebäer-Treiben 2017 und 2018 (13.11.2018) | - | Integriert in die Posts zum Treiben 2017 und 2018 | 
 | Mitgliederversammlung (10.10.2018) | https://peabear.github.io/homepage/aktuelles/einladung-mitgliederversammlung-2018/ (10.10.2018) |  | 
 | Gründungsprotokoll (10.08.2018) | https://peabear.github.io/homepage/ueber-uns/ | Integriert in Über uns | 
 | Olaf Giese Ehrenbär (07.04.2018) | https://peabear.github.io/homepage/aktuelles/olaf-giese-ehrenbaer/ (07.04.2018) | TODO: Schönes Foto von Olaf benötigt! | 

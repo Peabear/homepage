@@ -27,7 +27,7 @@ Seit 2007 sind auf diese Weise bereits über {{ site.data.peabear.income }} EUR 
 
 ## Spenden beim Ääzebärtreiben an Veilchendienstag
 
-Auf das Kommando "Bär, donn danze" werden Spenden für einen gemeinnützigen Zweck gesammelt, indem „Knöllchen“ an Passanten und Geschäftsleute verteilt werden. Daneben beteiligen sich auch namhafte Lohmarer Firmen mit einer Spende am „Ääzebär-Treiben“.
+Auf das Kommando "Bär, donn danze" werden Spenden für einen gemeinnützigen Zweck gesammelt, indem „Knöllchen“ an Passanten und Geschäftsleute verteilt werden. Daneben beteiligen sich auch namhafte Lohmarer Firmen mit einer Spende am Ääzebärtreiben.
 
 Unsere ehrenamtlichen Sammlerinnen und Sammler sind während des Ääzebärtreibens im Stadtgebiet unterwegs und nehmen Ihre Spende gerne direkt in den offiziellen Sammelboxen entgegen. Als Dankeschön erhalten Sie unser traditionelles „Ääzebär-Knöllchen“
 

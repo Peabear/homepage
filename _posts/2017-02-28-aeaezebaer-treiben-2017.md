@@ -36,3 +36,11 @@ Gruppenfoto der Bärentreiber des Ääzebär
 ![Unser Drehorgelspieler Max Kirschbaum]({{ site.baseurl }}/assets/images/2017-02-28/IMG_2454.jpg "Unser Drehorgelspieler Max Kirschbaum")  
 Unser Drehorgelspieler Max Kirschbaum
 {: .text-center}
+
+![Gruppenfoto in der Zeitung]({{ site.baseurl }}/assets/images/2017-02-28/presse_p1.jpg "Gruppenfoto in der Zeitung")  
+Gruppenfoto in der Zeitung
+{: .text-center}
+
+![Zeitungsartikel]({{ site.baseurl }}/assets/images/2017-02-28/presse_p2.jpg "Zeitungsartikel")  
+Zeitungsartikel
+{: .text-center}
