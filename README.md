@@ -31,14 +31,18 @@
   - It is deployed on every push to the `main` branch (production)
   - For testing, it can be deployed manually from feature branches  
     Note: the branch must be explicitly mentioned in `github-pages` environment
+  - The incoming donations are summed an stored in configfile [peabear.yml](_data/peabear.yml) by [calculate-income.rb](exclude/calculate-income.rb)
+  - The site-parameters in the generated `llms-full.txt` are substituted by [postprocess_and_validate_llms_full.rb](exclude/postprocess_and_validate_llms_full.rb). Additionally, it is ensured that no site-parameter is contained in the file
   - The published files and directories are validated using the Ruby script [validate-published-files.rb](exclude/validate-published-files.rb)
   - Markdown files are validated to avoid `€` and the usage of `Euro` as currency using the Ruby script [validate-eur.rb](exclude/validate-eur.rb)
   - The generated HTML pages are validated by `html-proofer` using the Ruby script [validate-html.rb](exclude/validate-html.rb)   
 - Local development:
   - Use **[start_local.sh](./start_local.sh)** to start server locally! `./start_local.sh`  
+    - Calculate donations: `bundle exec ruby exclude/calculate-income.rb`
     - Build pages and start the server `bundle exec jekyll serve --livereload`
   - Use **[validate_local.sh](./validate_local.sh)** to execute local validation: `./validate_local.sh`   
-  ⚠️ **Attention**: site must have been built before, some scripts might fail locally
+    ⚠️ **Attention**: site must have been built before, some scripts might fail locally
+    - Postpocess `llms-full.txt`: `bundle exec ruby exclude/postprocess_and_validate_llms_full.rb`
     - Validate published files in `_site`: `bundle exec ruby exclude/validate-published-files.rb`
     - Validate EUR in provided markdown files: `bundle exec ruby exclude/validate-eur.rb`
     - Validate HTML: `bundle exec ruby exclude/validate-html.rb --swap-localhost`
