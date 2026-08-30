@@ -51,6 +51,9 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      - name: Postprocess and validate llms-full.txt
+        run: bundle exec ruby exclude/postprocess_and_validate_llms_full.rb
+
       - name: Validate published files and directories
         run: bundle exec ruby exclude/validate-published-files.rb
 
