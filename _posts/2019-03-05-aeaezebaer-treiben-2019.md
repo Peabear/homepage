@@ -10,6 +10,7 @@ header:
   overlay_image: /assets/images/2019-03-05/IMG_9407.jpg
   overlay_filter: 0.5 # Darkens the image (0.1 to 1.0) to keep the text readable
 income: 1287.55
+bear: "Bernd Köppen"
 ---
 
 
