@@ -1,7 +1,7 @@
 ---
 title: Startseite
 permalink: /
-layout: posts
+layout: home
 entries_layout: grid # shows the teaser images
 classes: wide
 ---
