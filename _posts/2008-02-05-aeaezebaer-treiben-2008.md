@@ -1,6 +1,6 @@
 ---
 title: "Ääzebär&shy;treiben 2008"
-excerpt: "Das diesjährige Ääzebär-Treiben - mit neuem Bärenkostüm nach 32 Jahren - erbrachte einen Erlös von 1.254 EUR."
+excerpt: "Das diesjährige Ääzebärtreiben – mit neuem Bärenkostüm nach 32 Jahren – erbrachte einen Erlös von 1.254 EUR."
 categories:
   - aktuelles
 tags:
@@ -14,7 +14,7 @@ bear: "Olaf Giese"
 ---
 
 
-Das diesjährige Ääzebär-Treiben (mit nach 32 Jahren erstmalig neuem Bärenkostüm) erbrachte einen Erlös von 1.254 EUR fürs Rote Kreuz und eine gehörige Erkältung für einen Teil der Mannschaft...
+Das diesjährige Ääzebärtreiben (mit nach 32 Jahren erstmalig neuem Bärenkostüm) erbrachte einen Erlös von 1.254 EUR fürs Rote Kreuz und eine gehörige Erkältung für einen Teil der Mannschaft...
 
 Treiber waren dieses Jahr Peter Drossard, Olaf Giese (im Bären), Harald und Norbert Kreisel, Wilfried Meng und Norbert Muskatewitz.
 
