@@ -10,6 +10,7 @@ header:
   overlay_image: /assets/images/2023-02-21/IMG_4484.jpg
   overlay_filter: 0.5 # Darkens the image (0.1 to 1.0) to keep the text readable
 income: 1729.62
+bear: "Patrick Marunde"
 ---
 
 
