@@ -1,0 +1,21 @@
+name: Validate Ruby version
+
+on:
+  # Manual start via GitHub UI at any time enabled
+  workflow_dispatch:
+  
+  # Scheduled workflow execution
+  schedule:
+    # POSIX Cron: Every Saturday at 05:00 UTC
+    - cron: '0 5 * * 6'
+
+jobs:
+  check-version:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Run Ruby version validation
+        run: ./.github/scripts/validate_ruby_version.sh
