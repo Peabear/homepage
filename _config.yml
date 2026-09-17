@@ -44,6 +44,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - exclude/
+  - start_local.sh
 
 defaults:
   # _posts
