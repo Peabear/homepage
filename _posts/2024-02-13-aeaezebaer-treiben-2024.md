@@ -9,19 +9,21 @@ header:
   teaser: /assets/images/2024-02-13/FX6A4456.jpg
   overlay_image: /assets/images/2024-02-13/FX6A4456.jpg
   overlay_filter: 0.5 # Darkens the image (0.1 to 1.0) to keep the text readable
+income: 2378.20
+bear: "Patrick Marunde"
 ---
 
 
-Um 10 Uhr heute morgen ging es los: etwa 25 Karnevalisten starteten den Rundgang durch die Lohmarer Geschäfte, um Spenden für den guten Zweck zu sammeln. Ein paar Geschäfte hatten schon im Vorhinein ihren Beitrag überwiesen, viele andere entrichteten gerne einen Obulus, als wir vorbei kamen. Nach der öffentlichen Auszählung im Feuerwehrhaus ergab sich das offizielle Ergebnis zu 2.378,20 EUR, das ist erheblich mehr als im letzten Jahr.
+Um 10 Uhr heute Morgen ging es los: etwa 25 Karnevalisten starteten den Rundgang durch die Lohmarer Geschäfte, um Spenden für den guten Zweck zu sammeln. Ein paar Geschäfte hatten schon im Vorhinein ihren Beitrag überwiesen, viele andere entrichteten gerne einen Obolus, als wir vorbeikamen. Nach der öffentlichen Auszählung im Feuerwehrhaus ergab sich das offizielle Ergebnis zu 2.378,20 EUR, das ist erheblich mehr als im letzten Jahr.
 
-![Gruppenfoto des Ääzebärtreiben 2024]({{ '/assets/images/2024-02-13/FX6A4456.jpg' | relative_url }} "Gruppenfoto des Ääzebärtreiben 2024")  
+![Gruppenfoto des Ääzebärtreiben 2024]({{ site.baseurl }}/assets/images/2024-02-13/FX6A4456.jpg "Gruppenfoto des Ääzebärtreiben 2024")  
 Gruppenfoto des Ääzebärtreiben 2024
 {: .text-center}
 
-![Drehorgelspieler Max Kirschbaum mit seiner Frau Hannelore]({{ '/assets/images/2024-02-13/FX6A4519.jpg' | relative_url }} "Drehorgelspieler Max Kirschbaum mit seiner Frau Hannelore")  
+![Drehorgelspieler Max Kirschbaum mit seiner Frau Hannelore]({{ site.baseurl }}/assets/images/2024-02-13/FX6A4519.jpg "Drehorgelspieler Max Kirschbaum mit seiner Frau Hannelore")  
 Drehorgelspieler Max Kirschbaum mit seiner Frau Hannelore
 {: .text-center}
 
-![Besuch der VR Bank]({{ '/assets/images/2024-02-13/FX6A4552.jpg' | relative_url }} "Besuch der VR Bank")  
+![Besuch der VR Bank]({{ site.baseurl }}/assets/images/2024-02-13/FX6A4552.jpg "Besuch der VR Bank")  
 Besuch der VR Bank
 {: .text-center}

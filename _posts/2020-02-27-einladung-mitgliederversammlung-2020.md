@@ -12,4 +12,4 @@ UPDATE: **Abgesagt wegen Corona**
 
 Die nächste Mitgliederversammlung des Ääzebär e.V. findet am **Samstag, 28.03.2020 um 19 Uhr** im Gasthaus „Zur alten Fähre“, Brückenstraße 18, 53797 Lohmar statt.
 
-Der Vorstand freut sich über eine erneute rege Teilnahme.
+Der Vorstand freut sich über eine rege Teilnahme.

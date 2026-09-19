@@ -33,13 +33,18 @@
   - Markdown files are validated to avoid `€` and the usage of `Euro` as currency using the Ruby script [validate-eur.rb](exclude/validate-eur.rb)
   - The generated HTML pages are validated by `html-proofer` using the Ruby script [validate-html.rb](exclude/validate-html.rb)   
 - Local development:
-  - Build pages and start the server `bundle exec jekyll serve --livereload`
-  - Validate EUR in provided markdown files: `bundle exec ruby exclude/validate-eur.rb`
-  - Validate HTML: `bundle exec ruby exclude/validate-html.rb --swap-localhost`
-- Dependencies of `Ruby` and `Github Actions`are managed with Dependabot **[.github/dependabot.yml](.github/dependabot.yml)**
+  - Use **[start_local.sh](./start_local.sh)** to start server locally! `./start_local.sh`  
+    - Build pages and start the server `bundle exec jekyll serve --livereload`
+  - Use **[validate_local.sh](./validate_local.sh)** to execute local validation: `./validate_local.sh`   
+  ⚠️ **Attention**: site must have been built before, some scripts might fail locally
+    - Validate EUR in provided markdown files: `bundle exec ruby exclude/validate-eur.rb`
+    - Validate HTML: `bundle exec ruby exclude/validate-html.rb --swap-localhost`
+- Versions of `Ruby gems` and `Github Actions` are checked and updated with Dependabot **[dependabot.yml](.github/dependabot.yml)**
+- Version of `Ruby` is checked with **[ruby_validator.yml](.github/workflows/ruby_validator.yml)**
+  - Script [validate_ruby_version.sh](.github/scripts/validate_ruby_version.sh) the latest `Ruby` version of the github action `ruby/setup-ruby` and compares it to [.ruby-version](.ruby-version)
+
 
 ## 🔗 Useful Links
-
 - [Create QR codes with goqr.me - free and no sign-up](https://goqr.me/ create QR codes)
 - [Font AWESOME - free-collection](https://fontawesome.com/search?ic=free-collection)
 - [Kölsch Wörterbuch der Kölsch Akademie](https://koelsch-akademie.de/online-woerterbuch-1?t)

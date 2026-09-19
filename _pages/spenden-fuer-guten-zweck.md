@@ -8,13 +8,10 @@ toc_sticky: true
 toc_icon: "fa-solid fa-hand-holding-heart"
 ---
 
-**<i class="fas fa-tools"></i> Diese Seite ist noch im Aufbau <i class="fas fa-tools"></i>**  
-{: .notice--danger .text-center}
-
 
 Der Ääzebär e.V. Lohmar ist ein gemeinnütziger Verein. Unser Ziel ist es, Gutes zu tun: Wir sammeln Spenden für das örtliche Rote Kreuz und unterstützen zusätzlich noch verschiedene lokale, wohltätige sowie gemeinnützige Initiativen direkt hier in Lohmar.
 
-Seit 1980 sind auf diese Weise bereits über 30.000 EUR zusammengekommen.
+Seit 2007 sind auf diese Weise bereits über {{ site.data.peabear.income }} EUR zusammengekommen. 
 
 **Allen Spenderinnen und Spendern – insbesondere den Lohmarer Unternehmen – gilt an dieser Stelle unser herzlichster Dank für die großartige Unterstützung!**
 
@@ -30,19 +27,21 @@ Seit 1980 sind auf diese Weise bereits über 30.000 EUR zusammengekommen.
 
 ## Spenden beim Ääzebärtreiben an Veilchendienstag
 
-Unsere ehrenamtlichen Sammlerinnen und Sammler sind während des Ääzebärtreibens im Stadtgebiet unterwegs und nehmen Ihre Spende gerne direkt in den offiziellen Sammelboxen entgegen.
+Auf das Kommando "Bär, donn danze" werden Spenden für einen gemeinnützigen Zweck gesammelt, indem „Knöllchen“ an Passanten und Geschäftsleute verteilt werden. Daneben beteiligen sich auch namhafte Lohmarer Firmen mit einer Spende am Ääzebärtreiben.
 
-**<i class="fas fa-tools"></i> Wie hoch ist der Spendenbetrag auf dem Knöllchen? <i class="fas fa-tools"></i>**  
-{: .notice--danger .text-center}
+Unsere ehrenamtlichen Sammlerinnen und Sammler sind während des Ääzebärtreibens im Stadtgebiet unterwegs und nehmen Ihre Spende gerne direkt in den offiziellen Sammelboxen entgegen. Als Dankeschön erhalten Sie unser traditionelles „Ääzebär-Knöllchen“
 
-Als Dankeschön erhalten Sie unser traditionelles „Ääzebär-Knöllchen“. Dieses dient Ihnen gleichzeitig als vereinfachter Spendennachweis zur Vorlage beim Finanzamt (gültig für Spenden bis zu einer Höhe von XXX EUR).
+![„Ääzebär-Knöllchen“ - dient gleichzeitig als vereinfachter Spendennachweis zur Vorlage beim Finanzamt]({{ site.baseurl }}/assets/images/knoellchen.png "„Ääzebär-Knöllchen“ - dient gleichzeitig als vereinfachter Spendennachweis zur Vorlage beim Finanzamt"){: style="max-width: 200px; display: block; margin: 0 auto;"} 
+„Ääzebär-Knöllchen“ - dient gleichzeitig als vereinfachter Spendennachweis zur Vorlage beim Finanzamt
+{: .text-center}
+
 
 
 ## Spenden per Banküberweisung
 
 Sie dürfen gerne per Banküberweisung für den wohltätigen Zweck spenden. 
 
-Eine Spendenbestätigung stellen wir gerne aus, wenn sie sich an den Vorstand wenden und die notwendigen Daten hinterlassen. Dies geht zum Beispiel per Email [{{ site.email }}](mailto:{{ site.email }})  
+Eine Spendenbestätigung stellen wir gerne aus, wenn Sie sich an den Vorstand wenden und die notwendigen Daten hinterlassen. Dies geht zum Beispiel per E-Mail an [{{ site.email }}](mailto:{{ site.email }}).  
 
 Bankverbindung:
 
@@ -69,15 +68,3 @@ function copyBankdatenToClipboard(btn, val) {
 }
 </script>
 
-
-## Spenden per Paypal Spendenpool - im Aufbau
-
-Wir werden jährlich einen neuen Spendenpool bei PayPal einrichten. Dort können sie ebenfalls spenden.
-
-
-**<i class="fas fa-tools"></i> Die Links zum Spendenpool sind Dummies <i class="fas fa-tools"></i>**  
-Link und QR Code zeigen auf https://aeaezebaer.de
-{: .notice--danger .text-center}
-
-![QR Code für den PayPal Spendenpool]({{ '/assets/images/qr-codes/https_aeaezebaer_de.png' | relative_url }} "QR Code für den PayPal Spendenpool"){:width="30%"}  
-[PayPal Spendenpool](https://aeaezebaer.de)  

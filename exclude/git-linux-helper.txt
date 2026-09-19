@@ -9,8 +9,8 @@ git config user.name "Peabear"
 git config user.email "peabear@web.de"
 
 
-
 find assets/images/2024-02-13/ -type f -name "*Identifier"
 find assets/images/2024-02-13/ -type f -name "*Identifier" -delete
 
 
+ powershell.exe -Command "Start-Process rundll32.exe -ArgumentList 'shell32.dll,OpenAs_RunDLL $(wslpath -w full.md)'"
