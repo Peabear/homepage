@@ -9,10 +9,11 @@ header:
   teaser: /assets/images/2005-02-08/baer2005_1.jpg
   overlay_image: /assets/images/2005-02-08/overlay.png
   overlay_filter: 0.5 # Darkens the image (0.1 to 1.0) to keep the text readable
+bear: "Gertrud Lennartz"
 ---
 
 
-Hier ein paar Fotos vom Ääzebärtreiben 2005. Im Bär war Gertrud Lennartz.
+Hier ein paar Fotos vom Ääzebärtreiben 2005. Im Bären war Gertrud Lennartz.
 
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">

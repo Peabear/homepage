@@ -14,10 +14,10 @@ Der Ääzebär e.V. hat von der Stadt Lohmar für den Monat Februar 2010 die Aus
 Hier ein Presseartikel und das Anschreiben der Stadt.
 
 
-![Presseartikel aus dem Lohmarer Stadtanzeiger]({{ '/assets/images/2010-02-07/ehrenamt_LStA.jpg' | relative_url }} "Presseartikel aus dem Lohmarer Stadtanzeiger")  
+![Presseartikel aus dem Lohmarer Stadtanzeiger]({{ site.baseurl }}/assets/images/2010-02-07/ehrenamt_LStA.jpg "Presseartikel aus dem Lohmarer Stadtanzeiger")  
 Presseartikel aus dem Lohmarer Stadtanzeiger
 {: .text-center}
 
-![Dankesschreiben der Stadt]({{ '/assets/images/2010-02-07/ehrenamt_bm.jpg' | relative_url }} "Dankesschreiben der Stadt")  
+![Dankesschreiben der Stadt]({{ site.baseurl }}/assets/images/2010-02-07/ehrenamt_bm.jpg "Dankesschreiben der Stadt")  
 Dankesschreiben der Stadt
 {: .text-center}

@@ -9,7 +9,7 @@ tags:
 ---
 
 
-Auf der Jahreshauptversammlung des Ääzebär e.V. wurde gesten der neue Vorstand wie folgt gewählt:
+Auf der Jahreshauptversammlung des Ääzebär e.V. wurde gestern der neue Vorstand wie folgt gewählt:
 
 - Harald Köppen (1. Vorsitzender)
 - Christoph Mies (2. Vorsitzender)

@@ -9,25 +9,27 @@ header:
   teaser: /assets/images/2019-03-05/IMG_9407.jpg
   overlay_image: /assets/images/2019-03-05/IMG_9407.jpg
   overlay_filter: 0.5 # Darkens the image (0.1 to 1.0) to keep the text readable
+income: 1287.55
+bear: "Bernd Köppen"
 ---
 
 
 Um 10 Uhr machten sich gestern die Mitglieder des Ääzebär e.V. auf den Weg, um für den guten Zweck zu sammeln.
 
-Auch zwei heftige Schauern konnten die 13 Karnevalisten, die heute unterwegs waren, nicht von ihrem Ziel abbringen.
+Auch zwei heftige Schauer konnten die 13 Karnevalisten, die heute unterwegs waren, nicht von ihrem Ziel abbringen.
 
 Bei der Auszählung ab 19 Uhr im Feuerwehrhaus ergab sich dann ein Erlös der Sammlung von 1.287,55 EUR. Hier ein paar Bilder vom langen Tag des Ääzebärs. (nm)
 
 
-![Gruppenfoto der Bärentreiber des Ääzebär]({{ '/assets/images/2019-03-05/IMG_9407.jpg' | relative_url }} "Gruppenfoto der Bärentreiber des Ääzebär")  
+![Gruppenfoto der Bärentreiber des Ääzebär]({{ site.baseurl }}/assets/images/2019-03-05/IMG_9407.jpg "Gruppenfoto der Bärentreiber des Ääzebär")  
 Gruppenfoto der Bärentreiber des Ääzebär
 {: .text-center}
 
 
-![Der Bär tanzt bei Optiker und Hörakustik Hennes]({{ '/assets/images/2019-03-05/IMG_9409.jpg' | relative_url }} "Der Bär tanzt bei Optiker und Hörakustik Hennes")  
+![Der Bär tanzt bei Optiker und Hörakustik Hennes]({{ site.baseurl }}/assets/images/2019-03-05/IMG_9409.jpg "Der Bär tanzt bei Optiker und Hörakustik Hennes")  
 Der Bär tanzt bei Optiker und Hörakustik Hennes
 {: .text-center}
 
-![Bürgermeister Horst Krybus an der Spendendose]({{ '/assets/images/2019-03-05/IMG_9450.jpg' | relative_url }} "Bürgermeister Horst Krybus an der Spendendose")  
+![Bürgermeister Horst Krybus an der Spendendose]({{ site.baseurl }}/assets/images/2019-03-05/IMG_9450.jpg "Bürgermeister Horst Krybus an der Spendendose")  
 Bürgermeister Horst Krybus an der Spendendose
 {: .text-center}
