@@ -78,12 +78,12 @@ Wir unterhalten Onlinepräsenzen auf den Plattformen von Meta Platforms Ireland 
 
 Beim Besuch unserer Facebook- oder Instagram-Seite erfasst Meta unter anderem Ihre IP-Adresse sowie weitere Informationen, die in Form von Cookies auf Ihrem Endgerät vorhanden sind. Diese Daten werden von Meta genutzt, um uns statistische Informationen über die Inanspruchnahme unserer Seiten bereitzustellen („Seiten-Insights“). Rechtsgrundlage für die Nutzung dieser Funktionen und die damit verbundene Datenverarbeitung ist unser berechtigtes Interesse an einer zeitgemäßen Information und Interaktion (Art. 6 Abs. 1 lit. f DSGVO).
 
-Wir haben mit Meta eine Vereinbarung über die gemeinsame Verantwortlichkeit geschlossen (Art. 26 DSGVO). Diese legt fest, welche datenschutzrechtlichen Verpflichtungen Meta bzw. wir als Betreiber erfüllen müssen. Die wesentlichen Inhalte dieser Vereinbarung finden Sie in den Seiten-Insights-Ergänzungen von Meta unter: [https://facebook.com](https://www.facebook.com/legal/terms/page_controller_addendum)
+Wir haben mit Meta eine Vereinbarung über die gemeinsame Verantwortlichkeit geschlossen (Art. 26 DSGVO). Diese legt fest, welche datenschutzrechtlichen Verpflichtungen Meta bzw. wir als Betreiber erfüllen müssen. Die wesentlichen Inhalte dieser Vereinbarung finden Sie in den Seiten-Insights-Ergänzungen von Meta unter: [https://www.facebook.com/legal/terms/page_controller_addendum/](https://www.facebook.com/legal/terms/page_controller_addendum/)
 
 **Wichtiger Hinweis zum Datenabfluss und KI-Training:**  
 Wir weisen darauf hin, dass die Daten der Nutzer beim Besuch der Meta-Plattformen in Drittstaaten außerhalb der Europäischen Union (insbesondere in die USA) übertragen und dort verarbeitet werden können. Zudem behält sich Meta gemäß seinen Nutzungsbedingungen vor, öffentlich zugängliche Inhalte, Interaktionen und Daten für das Training von Systemen künstlicher Intelligenz (KI) zu nutzen. Auf diese Datenverarbeitungen durch Meta haben wir keinen Einfluss.
 
-Weitere Informationen zur Datenverarbeitung durch Meta finden Sie in der Datenschutzrichtlinie von Meta unter: [https://facebook.com](https://www.facebook.com/about/privacy/)
+Weitere Informationen zur Datenverarbeitung durch Meta finden Sie in der Datenschutzrichtlinie von Meta unter: [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy/)
 
 ### 7. Rechte der betroffenen Personen
 Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf:
