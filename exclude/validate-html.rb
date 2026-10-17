@@ -126,7 +126,7 @@ begin
     ignore_status_codes: [403],
     ignore_urls: [
       /www\.facebook\.com\/Aeaezebaer\//,
-      /www\.facebook\.com\/legal\/terms\/page_controller_addendum/, 
+      /www\.facebook\.com\/legal\/terms\/page_controller_addendum\//, 
       /www\.facebook\.com\/about\/privacy\//    
     ],
     swap_urls: url_swaps,
