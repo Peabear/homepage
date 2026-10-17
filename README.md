@@ -39,6 +39,7 @@
 - Local development:
   - Use **[start_local.sh](./start_local.sh)** to start server locally! `./start_local.sh`  
     - Calculate donations: `bundle exec ruby exclude/calculate-income.rb`
+    - Clean jekyll build  `bundle exec jekyll clean`
     - Build pages and start the server `bundle exec jekyll serve --livereload`
   - Use **[validate_local.sh](./validate_local.sh)** to execute local validation: `./validate_local.sh`   
     ⚠️ **Attention**: site must have been built before, some scripts might fail locally
