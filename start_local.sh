@@ -31,6 +31,14 @@ if [[ "$CURRENT_VERSION" != "$REQUIRED_VERSION"* ]]; then
 fi
 echo -e "${GREEN}[SUCCESS] Ruby version verified ($CURRENT_VERSION).${NC}"
 
-# Execute the Jekyll server command
-echo -e "${BLUE}Starting Jekyll server with LiveReload...${NC}\n"
+# Execute: calculate income
+echo -e "${BLUE}Execute exclude/calculate-income.rb${NC}\n"
+bundle exec ruby exclude/calculate-income.rb
+
+# Clean build
+echo -e "${BLUE}Clean Jekyll build...${NC}\n"
+bundle exec jekyll clean
+
+# Start server
+echo -e "${BLUE}Start Jekyll server with LiveReload...${NC}\n"
 bundle exec jekyll serve --livereload
