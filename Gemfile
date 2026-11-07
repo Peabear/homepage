@@ -7,7 +7,7 @@ gem "minimal-mistakes-jekyll", "4.28.1"
 # Plugins defined in your _config.yml
 group :jekyll_plugins do
   gem "jekyll-feed", "0.18.0"
-  gem "jekyll-include-cache", "0.3.1"
+  gem "jekyll-include-cache", "0.3.2"
   gem "jekyll-last-modified-at", "1.3.2"
   gem "jekyll-paginate", "1.1.0" # there also exist jekyll-paginate-v2
   gem "jemoji", "0.13.0"
